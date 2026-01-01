@@ -1,0 +1,407 @@
+Podcast_number,Guest,Gender,Title,Month,Day,Year,Runing_Time,Link
+#406 ,Teddy Atlas,male,Mike Tyson. Cus D’Amato. Boxing. Loyalty. Fear & Greatness,12,24,2023,135,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_teddy_atlas.mp3
+#405,Jeff Bezos,male,Amazon and Blue Origin,12,14,2023,140,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeff_bezos.mp3
+#404,Lee Cronin,male,Controversial Nature Paper on Evolution of Life and Universe,12,9,2023,207,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin_3.mp3
+#403,Lisa Randall,female,Dark Matter. Theoretical Physics. and Extinction Events,12,3,2023,70,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_randall.mp3
+#402,Michael Malice,male,Thanksgiving Pirate Special,11,25,2023,107,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_7.mp3
+#401,John Mearsheimer,male,Israel-Palestine. Russia-Ukraine. China. NATO. and WW3,11,18,2023,215,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_mearsheimer.mp3
+#400,Elon Musk,male,War. AI. Aliens. Politics. Physics. Video Games. and Humanity,11,9,2023,147,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_4.mp3
+#399,Jared Kushner,male,Israel. Palestine. Hamas. Gaza. Iran. and the Middle East,10,11,2023,234,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jared_kushner.mp3
+#398,Mark Zuckerberg,male,First Interview in the Metaverse,9,28,2023,72,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_3.mp3
+#397,Greg Lukianoff,male,Cancel Culture. Deplatforming. Censorship & Free Speech,9,25,2023,160,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_greg_lukianoff.mp3
+#396,James Sexton,male,Divorce Lawyer on Marriage. Relationships. Sex. Lies & Love,9,18,2023,231,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_sexton.mp3
+#395,Walter Isaacson,male,Elon Musk. Steve Jobs. Einstein. Da Vinci & Ben Franklin,9,10,2023,135,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_walter_isaacson.mp3
+#394,Neri Oxman,female,Biology. Art. and Science of Design & Engineering with Nature,9,1,2023,145,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neri_oxman.mp3
+#393,Andrew Huberman,male,Relationships. Drama. Betrayal. Sex. and Love,8,17,2023,140,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_4.mp3
+#392,Joscha Bach,male,Life. Intelligence. Consciousness. AI & the Future of Humans,8,1,2023,179,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach_3.mp3
+#391,Mohammed El-Kurd,male,Palestine,7,24,2023,143,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mohammed_el_kurd.mp3
+#390,Yuval Noah Harari,male,Human Nature. Intelligence. Power. and Conspiracies,7,17,2023,172,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yuval_noah_harari.mp3
+#389,Benjamin Netanyahu,male,Israel. Palestine. Power. Corruption. Hate. and Peace,7,12,2023,77,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_benjamin_netanyahu.mp3
+#388,Robert F. Kennedy Jr,male,CIA. Power. Corruption. War. Freedom. and Meaning,7,7,2023,154,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_f_kennedy_jr.mp3
+#387,George Hotz,male,Tiny Corp. Twitter. AI Safety. Self-Driving. GPT. AGI & God,6,30,2023,195,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_george_hotz_3.mp3
+#386,Marc Andreessen,male,Future of the Internet. Technology. and AI,6,22,2023,195,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marc_andreessen.mp3
+#385,Jimmy Wales,male,Wikipedia,6,19,2023,199,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jimmy_wales.mp3
+#384,Matthew McConaughey,male,Freedom. Truth. Family. Hardship. and Love,6,13,2023,144,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_mcconaughey.mp3
+#383,Mark Zuckerberg,male,Future of AI at Meta. Facebook. Instagram. and WhatsApp,6,9,2023,167,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_2.mp3
+#382,Bert Kreischer,male,Comedy. Drinking. Rogan. Segura. Churchill & Kim Jong Un,6,5,2023,131,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bert_kreischer.mp3
+#381,Chris Lattner,male,Future of Programming and AI,6,2,2023,218,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_lattner_3.mp3
+#380,Neil Gershenfeld,male,Self-Replicating Robots and the Future of Fabrication,5,28,2023,131,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neil_gershenfeld.mp3
+#379,Randall Kennedy,male,The N-Word – History of Race. Law. Politics. and Power,5,24,2023,194,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_randall_kennedy.mp3
+#378,Anna Frebel,female,Origin and Evolution of the Universe. Galaxies. and Stars,5,18,2023,143,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anna_frebel.mp3
+#377,Harvey Silverglate,male,Freedom of Speech,5,16,2023,115,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_harvey_silverglate.mp3
+#376,Stephen Wolfram,male,ChatGPT and the Nature of Truth. Reality & Computation,5,9,2023,259,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_4.mp3
+#375,David Pakman,male,Politics of Trump. Biden. Bernie. AOC. Socialism & Wokeism,5,6,2023,216,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_pakman.mp3
+#374,Robert Playter,male,Boston Dynamics CEO on Humanoid and Legged Robotics,4,28,2023,152,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_playter.mp3
+#373,Manolis Kellis,male,Evolution of Human Civilization and Superintelligent AI,4,22,2023,155,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_5.mp3
+#372,Simone Giertz,female,Queen of Sh*tty Robots. Innovative Engineering. and Design,4,16,2023,124,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_simone_giertz.mp3
+#371,Max Tegmark,male,The Case for Halting AI Development,4,13,2023,173,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_max_tegmark_3.mp3
+#370,Edward Frenkel,male,Reality is a Paradox – Mathematics. Physics. Truth & Love,4,10,2023,231,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_edward_frenkel.mp3
+#369,Paul Rosolie,male,Amazon Jungle. Uncontacted Tribes. Anacondas. and Ayahuasca,4,4,2023,218,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_rosolie.mp3
+#368,Eliezer Yudkowsky,male,Dangers of AI and the End of Human Civilization,3,30,2023,202,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eliezer_yudkowsky.mp3
+#367,Sam Altman,male,OpenAI CEO on GPT-4. ChatGPT. and the Future of AI,3,25,2023,148,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman.mp3
+#366,Shannon Curry,female,Johnny Depp & Amber Heard Trial. Marriage. Dating & Love,3,22,2023,110,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_shannon_curry.mp3
+#365,Sam Harris,male,Trump. Pandemic. Twitter. Elon. Bret. IDW. Kanye. AI & UFOs,3,14,2023,273,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_harris_2.mp3
+#364,Chris Voss,male,FBI Hostage Negotiator,3,10,2023,135,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_voss.mp3
+#363,B-Team Jiu Jitsu,male,Craig Jones. Nicky Rod. and Nicky Ryan,3,6,2023,174,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_b_team.mp3
+#362,Ginni Rometty,female,IBM CEO on Leadership. Power. and Adversity,3,2,2023,116,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ginni_rometty.mp3
+#361,Aaron Smith-Levin,male,Scientology,2,25,2023,137,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aaron_smith_levin.mp3
+#360,Tim Urban,male,Tribalism. Marxism. Liberalism. Social Justice. and Politics,2,20,2023,190,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban_2.mp3
+#359,Andrew Strominger,male,Black Holes. Quantum Gravity. and Theoretical Physics,2,15,2023,145,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_strominger.mp3
+#358,Aella,female,Sex Work. OnlyFans. Porn. Escorting. Dating. and Human Sexuality,2,10,2023,242,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_aella.mp3
+#357,Paul Conti,male,Narcissism. Sociopathy. Envy. and the Nature of Good and Evil,2,7,2023,202,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_conti.mp3
+#356,Tim Dodd,male,SpaceX. Starship. Rocket Engines. and Future of Space Travel,2,2,2023,321,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_dodd.mp3
+#355,David Kipping,male,Alien Civilizations and Habitable Worlds,1,28,2023,230,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_kipping.mp3
+#354,Jeremi Suri,male,American Civil War,1,25,2023,186,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeremi_suri_2.mp3
+#353,Dennis Whyte,male,Nuclear Fusion and the Future of Energy,1,21,2023,193,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dennis_whyte.mp3
+#352,Omar Suleiman,male,Islam,1,17,2023,187,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_omar_suleiman.mp3
+#351,MrBeast,male,Future of YouTube. Twitter. TikTok. and Instagram,1,11,2023,144,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mrbeast.mp3
+#350,Betül Kaçar,female,Origin of Life. Ancient DNA. Panspermia. and Aliens,12,29,2022,167,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_betul_kacar.mp3
+#349,Bhaskar Sunkara,male,The Case for Socialism,12,22,2022,232,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bhaskar_sunkara.mp3
+#348,Nathalie Cabrol,female,Search for Alien Life,12,19,2022,132,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nathalie_cabrol.mp3
+#347,Michael Malice,male,Christmas Special,12,15,2022,227,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_6.mp3
+#346,Ed Calderon,male,Mexican Drug Cartels,12,12,2022,251,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ed_calderon.mp3
+#345,Coffeezilla,female,SBF. FTX. Fraud. Scams. Fake Gurus. Money. Fame. and Power,12,9,2022,231,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_coffeezilla.mp3
+#344,Noam Brown,male,AI vs Humans in Poker and Games of Strategic Negotiation,12,6,2022,153,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_brown.mp3
+#343,Roger Gracie,male,Greatest Jiu Jitsu Competitor of All Time,12,3,2022,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_gracie.mp3
+#342,Todd Howard,male,Skyrim. Elder Scrolls 6. Fallout. and Starfield,11,29,2022,169,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_todd_howard.mp3
+#341,Guido van Rossum,male,Python and the Future of Programming,11,26,2022,202,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_guido_van_rossum_2.mp3
+#340,Chris Tarbell,male,FBI Agent Who Took Down Silk Road,11,22,2022,182,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_tarbell.mp3
+#339,Climate Change Debate,male,Bjørn Lomborg and Andrew Revkin,11,18,2022,256,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_climate_change_debate.mp3
+#338,Chamath Palihapitiya,male,Money. Success. Startups. Energy. Poker & Happiness,11,15,2022,184,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chamath_palihapitiya.mp3
+#337,Destiny,female,Politics. Free Speech. Controversy. Sex. War. and Relationships,11,11,2022,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_destiny.mp3
+#336,Ben Shapiro,male,Politics. Kanye. Trump. Biden. Hitler. Extremism. and War,11,7,2022,156,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_shapiro.mp3
+#335,Fiona Hill,female,Vladimir Putin and Donald Trump,11,4,2022,204,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_fiona_hill.mp3
+#334,Abbas Amanat,male,Iran Protests. Mahsa Amini. History. CIA & Nuclear Weapons,11,2,2022,191,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_abbas_amanat.mp3
+#333,Andrej Karpathy,male,Tesla AI. Self-Driving. Optimus. Aliens. and AGI,10,29,2022,213,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrej_karpathy.mp3
+#332,Kanye ‘Ye’ West Interview,male,West Interview,10,24,2022,153,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ye_aka_kanye_west.mp3
+#331,Balaji Srinivasan,male,How to Fix Government. Twitter. Science. and the FDA,10,20,2022,473,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_balaji_srinivasan.mp3
+#330,Hikaru Nakamura,male,Chess. Magnus. Kasparov. and the Psychology of Greatness,10,17,2022,174,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_hikaru_nakamura.mp3
+#329,Kate Darling,female,Social Robots. Ethics. Privacy and the Future of MIT,10,15,2022,189,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kate_darling.mp3
+#328,John Danaher,male,Submission Grappling. ADCC. Animal Combat. and Knives,10,10,2022,295,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_danaher_3.mp3
+#327,GothamChess,male,Hans Niemann. Magnus Carlsen. Cheating Scandal & Chess Bots,10,7,2022,218,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gothamchess.mp3
+#326,Annaka Harris,female,Free Will. Consciousness. and the Nature of Reality,10,5,2022,166,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_annaka_harris.mp3
+#325,Michael Levin,male,Biology. Life. Aliens. Evolution. Embryogenesis & Xenobots,10,1,2022,185,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_levin.mp3
+#324,Daniel Negreanu,male,Poker,9,27,2022,147,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_negreanu.mp3
+#323,Will Sasso,male,Comedy. MADtv. AI. Friendship. Madness. and Pro Wrestling,9,24,2022,148,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_will_sasso.mp3
+#322,Rana el Kaliouby,female,Emotion AI. Social Robots. and Self-Driving Cars,9,21,2022,162,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rana_el_kaliouby.mp3
+#321,Ray Kurzweil,male,Singularity. Superintelligence. and Immortality,9,17,2022,102,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_kurzweil.mp3
+#320,Christopher Capozzola,male,World War I. Ideology. Propaganda. and Politics,9,14,2022,140,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_christopher_capozzola.mp3
+#319,Botez Sisters,female,Chess. Streaming. and Fame,9,9,2022,162,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_botez_sisters.mp3
+#318,Nick Lane,male,Origin of Life. Evolution. Aliens. Biology. and Consciousness,9,7,2022,227,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nick_lane.mp3
+#317,John Vervaeke,male,Meaning Crisis. Atheism. Religion & the Search for Wisdom,9,4,2022,197,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_vervaeke.mp3
+#316,Noam Chomsky,male,Putin. Ukraine. China. and Nuclear War,8,31,2022,52,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_chomsky_2.mp3
+#315,Magnus Carlsen,male,Greatest Chess Player of All Time,8,27,2022,159,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_magnus_carlsen.mp3
+#314,Liv Boeree,female,Poker. Game Theory. AI. Simulation. Aliens & Existential Risk,8,24,2022,221,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_liv_boeree.mp3
+#313,Jordan Peterson,male,Life. Death. Power. Fame. and Meaning,8,19,2022,190,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_peterson.mp3
+#312,Duncan Trussell,male,Comedy. Sentient Robots. Suffering. Love & Burning Man,8,16,2022,205,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_duncan_trussell.mp3
+#311,Magatte Wade,female,Africa. Capitalism. Communism. and the Future of Humanity,8,13,2022,218,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_magatte_wade.mp3
+#310,Andrew Bustamante,male,CIA Spy,8,8,2022,239,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_bustamante.mp3
+#309,John Carmack,male,Doom. Quake. VR. AGI. Programming. Video Games. and Rockets,8,4,2022,322,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_carmack.mp3
+#308,Ryan Graves,male,UFOs. Fighter Jets. and Aliens,8,1,2022,157,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_graves.mp3
+#307,Brian Armstrong,male,Coinbase. Cryptocurrency. and Government Regulation,7,29,2022,156,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_armstrong.mp3
+#306,Oriol Vinyals,male,Deep Learning and Artificial General Intelligence,7,26,2022,135,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_oriol_vinyals_2.mp3
+#305,Martin Rees,male,Black Holes. Alien Life. Dark Matter. and the Big Bang,7,23,2022,139,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_martin_rees.mp3
+#304,Bishop Robert Barron,male,Christianity and the Catholic Church,7,20,2022,120,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_barron.mp3
+#303,Steve Keen,male,Marxism. Capitalism. and Economics,7,17,2022,216,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steve_keen.mp3
+#302,Richard Haier,male,IQ Tests. Human Intelligence. and Group Differences,7,14,2022,171,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_haier.mp3
+#301,Jack Barsky,male,KGB Spy,7,9,2022,223,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jack_barsky.mp3
+#300,Joe Rogan,male,Comedy. Controversy. Aliens. UFOs. Putin. CIA. and Freedom,7,4,2022,109,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joe_rogan_2.mp3
+#299,Demis Hassabis,male,DeepMind,7,1,2022,137,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_demis_hassabis.mp3
+#298,Susan Cain,female,The Power of Introverts and Loneliness,6,28,2022,125,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_susan_cain.mp3
+#297,Jonathan Reisman,male,The Human Body – From Sex & Sperm to Hands & Heart,6,25,2022,169,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jonathan_reisman.mp3
+#296,Douglas Murray,male,Racism. Marxism. and the War on the West,6,21,2022,164,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_murray.mp3
+#295,Richard Wolff,male,Marxism and Communism,6,17,2022,179,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_wolff.mp3
+#294,Tony Fadell,male,iPhone. iPod. and Nest,6,15,2022,172,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tony_fadell.mp3
+#293,Donald Hoffman,male,Reality is an Illusion – How Evolution Hid the Truth,6,12,2022,203,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_hoffman.mp3
+#292,Robin Hanson,male,Alien Civilizations. UFOs. and the Future of Humanity,6,9,2022,258,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robin_hanson.mp3
+#291,Jonathan Haidt,male,The Case Against Social Media,6,4,2022,108,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jonathan_haidt.mp3
+#290,Dan Reynolds,male,Imagine Dragons,5,30,2022,138,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_reynolds.mp3
+#289,Stephen Kotkin,male,Putin. Zelenskyy. and War in Ukraine,5,25,2022,169,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_kotkin_2.mp3
+#288,Sarma Melngailis,female,Bad Vegan,5,23,2022,261,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sarma_melngailis.mp3
+#287,Bobby Lee,male,Comedy. Skyrim. Sex Robots. Love. Fame. and Power,5,20,2022,105,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bobby_lee.mp3
+#286,Oliver Stone,male,Vladimir Putin and War in Ukraine,5,17,2022,119,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_oliver_stone.mp3
+#285,Glenn Loury,male,Race. Racism. Identity Politics. and Cancel Culture,5,14,2022,218,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_glenn_loury.mp3
+#284,Saifedean Ammous,male,Bitcoin. Anarchy. and Austrian Economics,5,11,2022,261,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saifedean_ammous.mp3
+#283,Chris Mason,male,Space Travel. Colonization. and Long-Term Survival in Space,5,8,2022,181,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_christopher_mason.mp3
+#282,David Buss,male,Sex. Dating. Relationships. and Sex Differences,5,4,2022,218,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_buss.mp3
+#281,Grimes,female,Music. AI. and the Future of Humanity,4,29,2022,131,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grimes.mp3
+#280,Cristiano Amon,male,Qualcomm CEO,4,27,2022,74,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cristiano_amon.mp3
+#279,Alien Debate,mixed,Sara Walker and Lee Cronin,4,24,2022,251,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin_sara_walker.mp3
+#278,Skye Fitzgerald,male,Hunger. War. and Human Suffering,4,21,2022,154,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_skye_fitzgerald.mp3
+#277,Andrew Huberman,male,Focus. Stress. Relationships. and Friendship,4,17,2022,211,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_3.mp3
+#276,Michael Saylor,male,Bitcoin. Inflation. and the Future of Money,4,14,2022,242,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_saylor.mp3
+#275,Rick Rubin,male,Legendary Music Producer,4,10,2022,207,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_rubin.mp3
+#274,Karl Deisseroth,male,Depression. Schizophrenia. and Psychiatry,4,7,2022,207,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_karl_deisseroth.mp3
+#273,Chris Blattman,male,War and Violence,4,3,2022,174,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_blattman.mp3
+#272,Brett Johnson,male,US Most Wanted Cybercriminal,3,27,2022,233,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brett_johnson.mp3
+#271,Ariel Ekblaw,male,Space Colonization and Self-Assembling Space Megastructures,3,23,2022,112,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ariel_ekblaw.mp3
+#270,David Wolpe,male,Judaism,3,16,2022,137,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_wolpe.mp3
+#269,Lee Cronin,male,Origin of Life. Aliens. Complexity. and Consciousness,3,11,2022,252,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_cronin.mp3
+#268,Robert Proctor,male,Nazi Science and Ideology,3,5,2022,175,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_proctor.mp3
+#267,Mark Zuckerberg,male,Meta. Facebook. Instagram. and the Metaverse,2,26,2022,125,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_zuckerberg_feb26.mp3
+#266,Nicole Perlroth,female,Cybersecurity and the Weapons of Cyberwar,2,20,2022,127,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nicole_perlroth.mp3
+#265,Devon Larratt,male,Arm Wrestling,2,16,2022,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_devon_larratt.mp3
+#264,Tim Urban,male,Elon Musk. Neuralink. AI. Aliens. and the Future of Humanity,2,13,2022,163,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_urban.mp3
+#263,John Abramson,male,Big Pharma,2,11,2022,144,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_abramson.mp3
+#262,Garry Nolan,male,UFOs and Aliens,2,6,2022,110,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_garry_nolan.mp3
+#261,Philip Goff,male,Consciousness. Panpsychism. and the Philosophy of Mind,2,3,2022,173,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_philip_goff.mp3
+#260,Georges St-Pierre. John Danaher & Gordon Ryan,male,The Greatest of All Time,1,30,2022,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gsp_danaher_gordon.mp3
+#259,Thomas Tull,male,From Batman Dark Knight Trilogy to AI and the Rolling Stones,1,26,2022,143,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_thomas_tull.mp3
+#258,Yann LeCun,male,Dark Matter of Intelligence and Self-Supervised Learning,1,22,2022,171,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yann_lecun_2.mp3
+#257,Brian Keating,male,Cosmology. Astrophysics. Aliens & Losing the Nobel Prize,1,18,2022,246,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_keating.mp3
+#256,Nationalism Debate,male,Yaron Brook and Yoram Hazony,1,15,2022,184,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nationalism_debate.mp3
+#255,Mark Normand,male,Comedy!,1,8,2022,118,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_mark_normand.mp3
+#254,Jay Bhattacharya,male,The Case Against Lockdowns,1,5,2022,148,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jay_bhattacharya.mp3
+#253,Michael Malice,male,New Year’s Special,12,31,2021,212,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_5.mp3
+#252,Elon Musk,male,SpaceX. Mars. Tesla Autopilot. Self-Driving. Robotics. and AI,12,28,2021,159,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_3.mp3
+#251,Ray Dalio,male,Money. Power. and the Collapse of Empires,12,25,2021,100,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_dalio_2.mp3
+#250,Peter Wang,male,Python and the Source Code of Humans. Computers. and Reality,12,24,2021,173,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_wang.mp3
+#249,Albert Bourla,male,Pfizer CEO,12,18,2021,74,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/albert_bourla_audio.mp3
+#248,Norman Naimark,male,Genocide. Stalin. Hitler. Mao. and Absolute Power,12,13,2021,145,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_norman_naimark.mp3
+#247,Jamie Metzl,male,Lab Leak Theory,12,8,2021,301,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jamie_metzl.mp3
+#246,Peter Woit,male,Theories of Everything and Why String Theory is Not Even Wrong,12,3,2021,143,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_woit.mp3
+#245,Tom Brands,male,Iowa Wrestling,11,30,2021,63,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tom_brands.mp3
+#244,Robert Crews,male,Afghanistan. Taliban. Bin Laden. and War in the Middle East,11,28,2021,169,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_crews.mp3
+#243,Kevin Systrom,male,Instagram,11,23,2021,172,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kevin_systrom.mp3
+#242,Ben Askren,male,Wrestling and MMA,11,20,2021,141,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_askren.mp3
+#241,Boris Sofman,male,Waymo. Cozmo. Self-Driving Cars. and the Future of Robotics,11,17,2021,200,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_boris_sofman.mp3
+#240,Neal Stephenson,male,Sci-Fi. Space. Aliens. AI. VR & the Future of Humanity,11,11,2021,167,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_neal_stephenson.mp3
+#239,Niall Ferguson,male,History of Money. Power. War. and Truth,11,8,2021,168,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_niall_ferguson.mp3
+#238,Francis Collins,male,National Institutes of Health (NIH),11,5,2021,93,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francis_collins.mp3
+#237,Steve Viscelli,male,Trucking and the Decline of the American Dream,11,4,2021,199,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steve_viscelli.mp3
+#236,Jimmy Pedro,male,Judo and the Forging of Champions,11,1,2021,150,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jimmy_pedro.mp3
+#235,Michael Mina,male,Rapid COVID Testing,10,29,2021,113,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_mina_2.mp3
+#234,Stephen Wolfram,male,Complexity and the Fabric of Reality,10,27,2021,225,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_3.mp3
+#233,Carl Hart,male,Heroin. Cocaine. MDMA. Alcohol & the Role of Drugs in Society,10,23,2021,76,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_carl_hart.mp3
+#232,Brian Greene,male,Quantum Gravity. Big Bang. Aliens. Life. Death. and Meaning,10,20,2021,112,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_greene.mp3
+#231,Alex Gladstein,male,Bitcoin. Authoritarianism. and Human Rights,10,16,2021,160,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_gladstein.mp3
+#230,Kelsi Sheren,female,War. Artillery. PTSD. and Love,10,15,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_kelsi_sheren.mp3
+#229,Richard Wrangham,male,Role of Violence. Sex. and Fire in Human Evolution,10,10,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_wrangham.mp3
+#228,RZA,male,Wu-Tang Clan. Kung Fu. Chess. God. Life. and Death,10,6,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rza.mp3
+#227,Sean Kelly,male,Existentialism. Nihilism. and the Search for Meaning,10,1,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_kelly.mp3
+#226,Jo Boaler,female,How to Learn Math,9,27,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jo_boaler.mp3
+#225,Jeffrey Shainline,male,Neuromorphic Computing and Optoelectronic Intelligence,9,27,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeffrey_shainline.mp3
+#224,Travis Oliphant,male,NumPy. SciPy. Anaconda. Python & Scientific Programming,9,23,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_audio_travis_oliphant.mp3
+#223,Travis Stevens,male,Judo. Olympics. and Mental Toughness,9,21,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_travis_stevens.mp3
+#222,Jay McClelland,male,Neural Networks and the Emergence of Cognition,9,20,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jay_mcclelland.mp3
+#221,Douglas Lenat,male,Cyc and the Quest to Solve Common Sense Reasoning in AI,9,15,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_douglas_lenat.mp3
+#220,Niels Jorgensen,male,New York Firefighters and the Heroes of 9/11,9,11,2021,169,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_niels_jorgensen.mp3
+#219,Donald Knuth,male,Programming. Algorithms. Hard Problems & the Game of Life,9,9,2021,147,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_knuth_2.mp3
+#218,Jaron Lanier,male,Virtual Reality. Social Media & the Future of Humans and AI,9,6,2021,118,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jaron_lanier.mp3
+#217,Rodney Brooks,male,Robotics,9,3,2021,150,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rodney_brooks.mp3
+#216,Vincent Racaniello,male,Viruses and Vaccines,9,1,2021,215,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vincent_racaniello.mp3
+#215,Wojciech Zaremba,male,OpenAI Codex. GPT-3. Robotics. and the Future of AI,8,29,2021,178,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_wojciech_zaremba.mp3
+#214,Jed Buchwald,male,Isaac Newton and the Philosophy of Science,8,27,2021,118,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jed_buchwald.mp3
+#213,Barry Barish,male,Gravitational Waves and the Most Precise Device Ever Built,8,23,2021,150,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_barry_barish.mp3
+#212,Joscha Bach,male,Nature of Reality. Dreams. and Consciousness,8,22,2021,198,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach_2.mp3
+#211,Brian Muraresku,male,The Secret History of Psychedelics,8,15,2021,121,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_muraresku.mp3
+#210,Matt Walker,male,Sleep,8,11,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_walker.mp3
+#209,Luís and João Batalha,male,Fermat’s Library and the Art of Studying Papers,8,9,2021,182,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_luis_and_joao_batalha.mp3
+#208,Jeff Hawkins,male,The Thousand Brains Theory of Intelligence,8,8,2021,145,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeff_hawkins_2.mp3
+#207,Chris Duffin,male,The Mad Scientist of Strength,8,3,2021,168,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_duffin.mp3
+#206,Ishan Misra,male,Self-Supervised Deep Learning in Computer Vision,7,31,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ishan_misra.mp3
+#205,Zach Bitter,male,Ultramarathon Running,7,29,2021,186,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_zach_bitter.mp3
+#204,Cumrun Vafa,male,String Theory,7,26,2021,138,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cumrun_vafa.mp3
+#203,Anya Fernald,female,Regenerative Farming and the Art of Cooking Meat,7,24,2021,110,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anya_fernald.mp3
+#202,Rick Doblin,male,Psychedelics,7,21,2021,162,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rick_doblin.mp3
+#201,Konstantin Batygin,male,Planet 9 and the Edge of Our Solar System,7,19,2021,165,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_konstanin_botygin.mp3
+#200,Michael Malice,male,Totalitarianism and Anarchy,7,15,2021,164,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_3.mp3
+#199,Roger Reaves,male,Smuggling Drugs for Pablo Escobar and the Medellin Cartel,7,11,2021,135,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_reaves.mp3
+#198,Sara Walker,female,The Origin of Life on Earth and Alien Worlds,7,10,2021,125,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_walker.mp3
+#197,Jocko Willink,male,War. Leadership. and Discipline,7,5,2021,123,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jocko_willink.mp3
+#196,Yeonmi Park,female,North Korea,7,1,2021,126,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yeonmi_park.mp3
+#195,Clara Sousa-Silva,female,Searching for Signs of Life on Venus and Other Planets,6,28,2021,124,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_clara_sousa_silva.mp3
+#194,Bret Weinstein,male,Truth. Science. and Censorship in the Time of a Pandemic,6,26,2021,202,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bret_weinstein.mp3
+#193,Rob Reid,male,The Existential Threat of Engineered Viruses and Lab Leaks,6,21,2021,185,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rob_reid.mp3
+#192,Charles Hoskinson,male,Cardano,6,16,2021,304,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_hoskinson.mp3
+#191,Daniel Schmachtenberger,male,Steering Civilization Away from Self-Destruction,6,14,2021,261,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_schmachtenberger.mp3
+#190,Jordan Ellenberg,male,Mathematics of High-Dimensional Shapes and Geometries,6,13,2021,167,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jordan_ellenberg.mp3
+#189,David Sinclair,male,Extending the Human Lifespan Beyond 100 Years,6,7,2021,109,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_sinclair.mp3
+#188,Vitalik Buterin,male,Ethereum 2.0,6,3,2021,188,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vitalik_buterin_2.mp3
+#187,Frank Wilczek,male,Physics of Quarks. Dark Matter. Complexity. Life & Aliens,5,30,2021,150,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_frank_wilczek.mp3
+#186,Bryan Johnson,male,Kernel Brain-Computer Interfaces,5,24,2021,157,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bryan_johnson.mp3
+#185,Sam Harris,male,Consciousness. Free Will. Psychedelics. AI. UFOs. and Meaning,5,20,2021,203,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_harris.mp3
+#184,Katherine de Kleer,female,Planets. Moons. and Asteroids in Our Solar System,5,17,2021,122,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_katherine_de_kleer.mp3
+#183,Po-Shen Loh,male,Mathematics. Math Olympiad. Combinatorics & Contact Tracing,5,15,2021,147,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_po_shen_loh.mp3
+#182,John Danaher,male,The Path to Mastery in Jiu Jitsu. Grappling. Judo. and MMA,5,9,2021,223,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_danaher.mp3
+#181,Sergey Nazarov,male,Chainlink. Smart Contracts. and Oracle Networks,5,1,2021,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sergey_nazarov.mp3
+#180,Jeremi Suri,male,History of American Power,4,30,2021,134,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jeremi_suri.mp3
+#179,Georges St-Pierre,male,The Science of Fighting,4,26,2021,169,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_georges_st_pierre.mp3
+#178,Michael Malice and Yaron Brook,male,Ayn Rand. Human Nature. and Anarchy,4,24,2021,272,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_and_yaron_brook.mp3
+#177,Risto Miikkulainen,male,Neuroevolution and Evolutionary Computation,4,19,2021,122,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_risto_miikkulainen.mp3
+#176,Robert Breedlove,male,Philosophy of Bitcoin from First Principles,4,18,2021,249,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_robert_breedlove.mp3
+#175,Yannis Pappas,male,History and Comedy,4,12,2021,117,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yannis_pappas.mp3
+#174,Tyler Cowen,male,Economic Growth and the Fight Against Conformity and Mediocrity,4,10,2021,135,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tyler_cowen.mp3
+#173,Nic Carter,male,Bitcoin Core Values. Layered Scaling. and Blocksize Debates,4,1,2021,152,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nic_carter.mp3
+#172,Ryan Schiller,male,Librex and the Free Exchange of Ideas on College Campuses,3,30,2021,152,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_schiller.mp3
+#171,Anthony Pompliano,male,Bitcoin,3,25,2021,188,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anthony_pompliano.mp3
+#170,Ronald Sullivan,male,The Ideal of Justice in the Face of Controversy and Evil,3,22,2021,111,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ronald_sullivan.mp3
+#169,Ryan Hall,male,Solving Martial Arts from First Principles,3,20,2021,180,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_hall_2.mp3
+#168,Silvio Micali,male,Cryptocurrency. Blockchain. Algorand. Bitcoin. and Ethereum,3,15,2021,120,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_silvio_micali.mp3
+#167,Saagar Enjeti,male,Politics. History. and Power,3,14,2021,196,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_saagar_enjeti.mp3
+#166,Cal Newport,male,Deep Work. Focus. Productivity. Email. and Social Media,3,5,2021,189,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cal_newport.mp3
+#165,Josh Barnett,male,Philosophy of Violence. Power. and the Martial Arts,3,1,2021,138,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_josh_barnett.mp3
+#164,Andrew Huberman,male,Sleep. Dreams. Creativity & the Limits of the Human Mind,2,28,2021,178,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_2.mp3
+#163,Eric Weinstein,male,Difficult Conversations. Freedom of Speech. and Physics,2,23,2021,164,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_4.mp3
+#162,Jim Keller,male,The Future of Computing. AI. Life. and Consciousness,2,18,2021,164,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_keller_2.mp3
+#161,Jason Calacanis,male,Startups. Angel Investing. Capitalism. and Friendship,2,15,2021,136,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jason_calacanis.mp3
+#160,Brendan Eich,male,JavaScript. Firefox. Mozilla. and Brave,2,12,2021,184,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brendan_eich.mp3
+#159,Richard Craib,male,WallStreetBets. Numerai. and the Future of Stock Trading,2,8,2021,115,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_craib.mp3
+#158,Zev Weinstein,male,The Next Generation of Big Ideas and Brave Minds,2,5,2021,109,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_zev_weinstein.mp3
+#157,Natalya Bailey,female,Rocket Engines and Electric Spacecraft Propulsion,2,1,2021,99,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_natalya_bailey.mp3
+#156,Tim Dillon,male,Comedy. Power. Conspiracy Theories. and Freedom,1,29,2021,149,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_tim_dillon.mp3
+#2021,Lex Fridman,male,Ask Me Anything – AMA January 2021,1,27,2021,79,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ama1.mp3
+#155,Max Tegmark,male,AI and Physics,1,18,2021,188,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_max_tegmark_2.mp3
+#154,Avi Loeb,male,Aliens. Black Holes. and the Mystery of the Oumuamua,1,14,2021,171,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_avi_loeb.mp3
+#153,Dmitry Korkin,male,Evolution of Proteins. Viruses. Life. and AI,1,11,2021,138,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitry_korkin_2.mp3
+#152,Dan Gable,male,Olympic Wrestling. Mental Toughness & the Making of Champions,1,10,2021,76,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_gable.mp3
+#151,Dan Kokotov,male,Speech Recognition with AI and Humans,1,4,2021,94,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_kokotov.mp3
+#150,Michael Malice,male,The White Pill. Freedom. Hope. and Happiness Amidst Chaos,1,1,2021,189,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice_2.mp3
+#149,Diana Walsh Pasulka,female,Aliens. Technology. Religion. and the Nature of Belief,12,28,2020,181,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_diana_walsh_pasulka.mp3
+#148,Charles Isbell and Michael Littman,male,Machine Learning and Education,12,26,2020,123,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_isbell_and_michael_littman.mp3
+#147,Dmitri Dolgov,male,Waymo and the Future of Self-Driving Cars,12,21,2020,148,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitri_dolgov.mp3
+#146,Michael Mina,male,Rapid Testing. Viruses. and the Engineering Mindset,12,19,2020,139,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_mina.mp3
+#145,Matthew Johnson,male,Psychedelics,12,14,2020,219,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matthew_johnson.mp3
+#144,Michael Littman,male,Reinforcement Learning and the Future of AI,12,13,2020,121,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_littman.mp3
+#143,John Clarke,male,The Art of Fighting and the Pursuit of Excellence,12,6,2020,180,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_clarke.mp3
+#142,Manolis Kellis,male,Meaning of Life. the Universe. and Everything,11,30,2020,135,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_4.mp3
+#141,Erik Brynjolfsson,male,Economics of AI. Social Networks. and Technology,11,25,2020,105,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_erik_brynjolfsson.mp3
+#140,Lisa Feldman Barrett,female,Love. Evolution. and the Human Brain,11,20,2020,141,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_feldman_barrett_2.mp3
+#139,Andrew Huberman,male,Neuroscience of Optimal Performance,11,16,2020,156,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman.mp3
+#138,Yaron Brook,male,Ayn Rand and the Philosophy of Objectivism,11,13,2020,173,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_yaron_brook.mp3
+#137,Alex Filippenko,male,Supernovae. Dark Energy. Aliens & the Expanding Universe,11,8,2020,160,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_filippenko.mp3
+#136,Dan Carlin,male,Hardcore History,11,3,2020,206,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dan_carlin.mp3
+#135,Charles Isbell,male,Computing. Interactive AI. and Race in America,11,2,2020,148,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_charles_isbell.mp3
+#134,Eric Weinstein,male,On the Nature of Good and Evil. Genius and Madness,10,30,2020,177,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_3.mp3
+#133,Manolis Kellis,male,Biology of Disease,10,26,2020,160,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_3.mp3
+#132,George Hotz,male,Hacking the Simulation & Learning to Drive with Neural Nets,10,22,2020,193,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_george_hotz_2.mp3
+#131,Chris Lattner,male,The Future of Computing and Programming Languages,10,19,2020,167,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_chris_lattner_2.mp3
+#130,Scott Aaronson,male,Computational Complexity and Consciousness,10,12,2020,116,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_scott_aaronson_2.mp3
+#129,Lisa Feldman Barrett,female,Counterintuitive Ideas About How the Brain Works,10,4,2020,144,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lisa_feldman_barrett.mp3
+#128,Michael Malice,male,Anarchy. Democracy. Libertarianism. Love. and Trolling,10,2,2020,204,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_malice.mp3
+#127,Joe Rogan,male,Conversations. Ideas. Love. Freedom & The Joe Rogan Experience,9,26,2020,79,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joe_rogan.mp3
+#126,James Gosling,male,Java. JVM. Emacs. and the Early Days of Computing,9,24,2020,111,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_james_gosling.mp3
+#125,Ryan Hall,male,Martial Arts and the Philosophy of Violence. Power. and Grace,9,20,2020,0,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ryan_hall.mp3
+#124,Stephen Wolfram,male,Fundamental Theory of Physics. Life. and the Universe,9,16,2020,264,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram_2.mp3
+#123,Manolis Kellis,male,Origin of Life. Humans. Ideas. Suffering. and Happiness,9,12,2020,131,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis_2.mp3
+#122,David Fravor,male,UFOs. Aliens. Fighter Jets. and Aerospace Engineering,9,8,2020,236,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_fravor.mp3
+#3,Lex Fridman,male,In Memory of My Grandmother,9,7,2020,18,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_solo_grandmother.mp3
+#121,Eugenia Kuyda,female,Friendship with an AI Companion,9,5,2020,181,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eugenia_kuyda.mp3
+#2,Lex Fridman,male,The Future of Neuralink,9,1,2020,33,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_solo_neuralink.mp3
+#120,François Chollet,male,Measures of Intelligence,8,31,2020,154,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francois_chollet_2.mp3
+#119,David Eagleman,male,Neuroplasticity and the Livewired Brain,8,26,2020,101,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_eagleman.mp3
+#118,Grant Sanderson,male,Math. Manim. Neural Networks & Teaching with 3Blue1Brown,8,24,2020,128,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grant_sanderson_2.mp3
+#117,Sheldon Solomon,male,Death and Meaning,8,21,2020,176,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sheldon_solomon.mp3
+#116,Sara Seager,female,Search for Planets and Life Outside Our Solar System,8,16,2020,102,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sara_seager.mp3
+#115,Dileep George,male,Brain-Inspired AI,8,15,2020,130,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dileep_george.mp3
+#114,Russ Tedrake,male,Underactuated Robotics. Control. Dynamics and Touch,8,9,2020,169,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_russ_tedrake.mp3
+#113,Manolis Kellis,male,Human Genome and Evolutionary Dynamics,7,31,2020,149,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_manolis_kellis.mp3
+#112,Ian Hutchinson,male,Nuclear Fusion. Plasma Physics. and Religion,7,29,2020,121,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ian_hutchinson.mp3
+#111,Richard Karp,male,Algorithms and Computational Complexity,7,26,2020,128,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_karp.mp3
+#110,Jitendra Malik,male,Computer Vision,7,22,2020,102,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jitendra_malik.mp3
+#109,Brian Kernighan,male,UNIX. C. AWK. AMPL. and Go Programming,7,18,2020,103,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_brian_kernighan.mp3
+#108,Sergey Levine,male,Robotics and Machine Learning,7,14,2020,97,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sergey_levine.mp3
+#107,Peter Singer,male,Suffering in Humans. Animals. and AI,7,8,2020,69,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_singer.mp3
+#106,Matt Botvinick,male,Neuroscience. Psychology. and AI at DeepMind,7,3,2020,121,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_matt_botvinick.mp3
+#105,Robert Langer,male,Edison of Medicine,7,1,2020,62,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bob_langer.mp3
+#104,David Patterson,male,Computer Architecture and Data Storage,6,27,2020,110,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_patterson.mp3
+#103,Ben Goertzel,male,Artificial General Intelligence,6,22,2020,249,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ben_goertzel.mp3
+#102,Steven Pressfield,male,The War of Art,6,20,2020,87,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_steven_pressfield.mp3
+#101,Joscha Bach,male,Artificial Consciousness and the Nature of Reality,6,13,2020,180,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_joscha_bach.mp3
+#99,Karl Friston,male,Neuroscience and the Free Energy Principle,5,28,2020,89,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_karl_friston.mp3
+#97,Sertac Karaman,male,Robots That Fly and Robots That Drive,5,20,2020,83,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sertac_karaman.mp3
+#96,Stephen Schwarzman,male,Going Big in Business. Investing. and AI,5,15,2020,70,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_schwarzman.mp3
+#95,Dawn Song,female,Adversarial Machine Learning and Computer Security,5,13,2020,133,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dawn_song.mp3
+#94,Ilya Sutskever,male,Deep Learning,5,8,2020,97,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ilya_sutskever.mp3
+#93,Daphne Koller,female,Biomedicine and Machine Learning,5,5,2020,72,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daphne_koller.mp3
+#92,Harry Cliff,male,Particle Physics and the Large Hadron Collider,4,30,2020,98,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_harry_cliff.mp3
+#91,Jack Dorsey,male,Square. Cryptocurrency. and Artificial Intelligence,4,24,2020,51,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jack_dorsey.mp3
+#90,Dmitry Korkin,male,Computational Biology of Coronavirus,4,22,2020,129,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dmitry_korkin.mp3
+#89,Stephen Wolfram,male,Cellular Automata. Computation. and Physics,4,18,2020,191,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_wolfram.mp3
+#88,Eric Weinstein,male,Geometric Unity and the Call for New Ideas. Leaders & Institutions,4,13,2020,167,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_eric_weinstein_2.mp3
+#87,Richard Dawkins,male,Evolution. Intelligence. Simulation. and Memes,4,10,2020,67,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_richard_dawkins.mp3
+#86,David Silver,male,AlphaGo. AlphaZero. and Deep Reinforcement Learning,4,3,2020,108,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_silver.mp3
+#85,Roger Penrose,male,Physics of Consciousness and the Infinite Universe,3,31,2020,88,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_roger_penrose.mp3
+#83,Nick Bostrom,male,Simulation and Superintelligence,3,26,2020,117,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_nick_bostrom.mp3
+#82,Simon Sinek,male,Leadership. Hard Work. Optimism and the Infinite Game,3,21,2020,38,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_simon_sinek.mp3
+#81,Anca Dragan,female,Human-Robot Interaction and Reward Engineering,3,19,2020,99,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_anca_dragan.mp3
+#80,Vitalik Buterin,male,Ethereum. Cryptocurrency. and the Future of Money,3,16,2020,95,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vitalik_buterin.mp3
+#79,Lee Smolin,male,Quantum Gravity and Einstein’s Unfinished Revolution,3,7,2020,70,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_lee_smolin.mp3
+#78,Ann Druyan,female,Cosmos. Carl Sagan. Voyager. and the Beauty of Science,3,5,2020,69,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ann_druyan.mp3
+#77,Alex Garland,male,Ex Machina. Devs. Annihilation. and the Poetry of Science,3,3,2020,71,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_alex_garland.mp3
+#76,John Hopfield,male,Physics View of the Mind and Neurobiology,2,29,2020,73,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_john_hopfield.mp3
+#75,Marcus Hutter,male,Universal Artificial Intelligence. AIXI. and AGI,2,26,2020,100,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_marcus_hutter.mp3
+#74,Michael I. Jordan,male,Machine Learning. Recommender Systems. and the Future of AI,2,24,2020,106,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_i_jordan.mp3
+#73,Andrew Ng,male,Deep Learning. Education. and Real-World AI,2,20,2020,89,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_ng.mp3
+#72,Scott Aaronson,male,Quantum Computing,2,17,2020,94,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_scott_aaronson.mp3
+#71,Vladimir Vapnik,male,Predicates. Invariants. and the Essence of Intelligence,2,14,2020,105,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_vladimir_vapnik_2.mp3
+#70,Jim Keller,male,Moore’s Law. Microprocessors. Abstractions. and First Principles,2,5,2020,95,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_keller.mp3
+#69,David Chalmers,male,The Hard Problem of Consciousness,1,29,2020,99,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_chalmers.mp3
+#68,Cristos Goodrow,male,YouTube Algorithm,1,25,2020,91,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_cristos_goodrow.mp3
+#67,Paul Krugman,male,Economics of Innovation. Automation. Safety Nets & Universal Basic Income,1,21,2020,63,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_paul_krugman.mp3
+#66,Ayanna Howard,female,Human-Robot Interaction and Ethics of Safety-Critical Systems,1,17,2020,100,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ayanna_howard.mp3
+#65,Daniel Kahneman,male,Thinking Fast and Slow. Deep Learning. and AI,1,14,2020,79,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_daniel_kahneman.mp3
+#64,Grant Sanderson,male,3Blue1Brown and the Beauty of Mathematics,1,7,2020,63,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_grant_sanderson.mp3
+#63,Stephen Kotkin,male,Stalin. Putin. and the Nature of Power,1,3,2020,97,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_stephen_kotkin.mp3
+#62,Donald Knuth,male,Algorithms. TeX. Life. and The Art of Computer Programming,12,30,2019,106,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_donald_knuth.mp3
+#61,Melanie Mitchell,female,Concepts. Analogies. Common Sense & Future of AI,12,28,2019,113,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_melanie_mitchell.mp3
+#60,Jim Gates,male,Supersymmetry. String Theory and Proving Einstein Right,12,25,2019,95,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_jim_gates.mp3
+#59,Sebastian Thrun,male,Flying Cars. Autonomous Vehicles. and Education,12,21,2019,79,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sebastian_thrun.mp3
+#58,Michael Stevens,male,Vsauce,12,17,2019,58,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_stevens.mp3
+#57,Rohit Prasad,male,Amazon Alexa and Conversational AI,12,14,2019,106,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_rohit_prasad.mp3
+#56,Judea Pearl,male,Causal Reasoning. Counterfactuals. Bayesian Networks. and the Path to AGI,12,11,2019,83,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_judea_pearl.mp3
+#55,Whitney Cummings,female,Comedy. Robotics. Neurology. and Love,12,5,2019,77,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_whitney_cummings.mp3
+#54,Ray Dalio,male,Principles. the Economic Machine. Artificial Intelligence & the Arc of Life,12,2,2019,90,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_ray_dalio.mp3
+#53,Noam Chomsky,male,Language. Cognition. and Deep Learning,11,29,2019,36,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_noam_chomsky.mp3
+#52,Gilbert Strang,male,Linear Algebra. Deep Learning. Teaching. and MIT OpenCourseWare,11,25,2019,50,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gilbert_strang.mp3
+#51,Dava Newman,female,Space Exploration. Space Suits. and Life on Mars,11,22,2019,39,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_dava_newman.mp3
+#50,Michael Kearns,male,Algorithmic Fairness. Bias. Privacy. and Ethics in Machine Learning,11,19,2019,109,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michael_kearns.mp3
+#49,Elon Musk,male,Neuralink. AI. Autopilot. and the Pale Blue Dot,11,12,2019,36,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_elon_musk_2.mp3
+#48,Bjarne Stroustrup,male,C++,11,7,2019,107,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_bjarne_stroustrup.mp3
+#47,Sean Carroll,male,Quantum Mechanics and the Many-Worlds Interpretation,11,1,2019,90,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sean_carroll_2.mp3
+#46,Garry Kasparov,male,Chess. Deep Blue. AI. and Putin,10,27,2019,55,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_garry_kasparov.mp3
+#45,Michio Kaku,male,Future of Humans. Aliens. Space Travel & Physics,10,22,2019,61,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_michio_kaku.mp3
+#44,David Ferrucci,male,IBM Watson. Jeopardy & Deep Conversations with AI,10,11,2019,144,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_david_ferrucci.mp3
+#43,Gary Marcus,male,Toward a Hybrid of Deep Learning and Symbolic AI,10,3,2019,85,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_gary_marcus.mp3
+#42,Peter Norvig,male,Artificial Intelligence: A Modern Approach,9,30,2019,63,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_peter_norvig.mp3
+#41,Leonard Susskind,male,Quantum Mechanics. String Theory. and Black Holes,9,26,2019,57,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_leonard_susskind.mp3
+#40,Regina Barzilay,female,Deep Learning for Cancer Diagnosis and Treatment,9,23,2019,77,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_regina_barzilay.mp3
+#39,Colin Angle,male,iRobot,9,19,2019,37,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_colin_angle.mp3
+#38,François Chollet,male,Keras. Deep Learning. and the Progress of AI,9,14,2019,56,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_francois_chollet.mp3
+#37,Vijay Kumar,male,Flying Robots,9,8,2019,56,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_vijay_kumar.mp3
+#36,Yann LeCun,male,Deep Learning. Convolutional Neural Networks. and Self-Supervised Learning,8,31,2019,76,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_yann_lecun.mp3
+#35,Jeremy Howard,male,fast.ai Deep Learning Courses and Research,8,27,2019,104,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeremy_howard.mp3
+#34,Pamela McCorduck,female,Machines Who Think and the Early Days of AI,8,23,2019,60,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_pamela_mccorduck.mp3
+#33,Keoki Jackson,male,Lockheed Martin,8,19,2019,73,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_keoki_jackson.mp3
+#32,Paola Arlotta,female,Brain Development from Stem Cell to Organoid,8,12,2019,57,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_paola_arlotta.mp3
+#31,George Hotz,male,Comma.ai. OpenPilot. and Autonomous Vehicles,8,5,2019,119,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_george_hotz.mp3
+#30,Kevin Scott,male,Microsoft CTO,8,1,2019,57,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kevin_scott.mp3
+#29,Gustav Soderstrom,male,Spotify,7,29,2019,107,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_gustav_soderstrom.mp3
+#28,Chris Urmson,male,Self-Driving Cars at Aurora. Google. CMU. and DARPA,7,22,2019,44,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_chris_urmson.mp3
+#27,Kai-Fu Lee,male,AI Superpowers – China and Silicon Valley,7,15,2019,86,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kai_fu_lee.mp3
+#26,Sean Carroll,male,The Nature of the Universe. Life. and Intelligence,7,10,2019,35,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_sean_carroll.mp3
+#25,Jeff Hawkins,male,Thousand Brains Theory of Intelligence,7,1,2019,129,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeff_hawkins.mp3
+#24,Rosalind Picard,female,Affective Computing. Emotion. Privacy. and Health,6,17,2019,60,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_rosalind_picard.mp3
+#23,Gavin Miller,male,Adobe Research,6,10,2019,69,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_gavin_miller.mp3
+#22,Rajat Monga,male,TensorFlow,6,3,2019,71,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_rajat_monga.mp3
+#21,Chris Lattner,male,Compilers. LLVM. Swift. TPU. and ML Accelerators,5,13,2019,73,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_chris_lattner.mp3
+#20,Oriol Vinyals,male,DeepMind AlphaStar. StarCraft. Language. and Sequences,4,29,2019,106,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_oriol_vinyals.mp3
+#19,Ian Goodfellow,male,Generative Adversarial Networks (GANs),4,18,2019,68,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_ian_goodfellow.mp3
+#18,Elon Musk,male,Tesla Autopilot,4,12,2019,32,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_elon_musk.mp3
+#17,Greg Brockman,male,OpenAI and AGI,4,3,2019,85,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_greg_brockman.mp3
+#16,Eric Weinstein,male,Revolutionary Ideas in Science. Math. and Society,3,20,2019,81,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_eric_weinstein.mp3
+#15,Leslie Kaelbling,female,Reinforcement Learning. Planning. and Robotics,3,12,2019,61,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_leslie_kaelbling.mp3
+#14,Kyle Vogt,male,Cruise Automation,2,7,2019,55,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_kyle_vogt.mp3
+#13,Tomaso Poggio,male,Brains. Minds. and Machines,1,19,2019,80,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_tomaso_poggio.mp3
+#12,Tuomas Sandholm,male,Poker and Game Theory,12,28,2018,66,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_tuomas_sandholm.mp3
+#11,Juergen Schmidhuber,male,Godel Machines. Meta-Learning. and LSTMs,12,23,2018,80,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_juergen_schmidhuber.mp3
+#10,Pieter Abbeel,male,Deep Reinforcement Learning,12,16,2018,42,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_pieter_abbeel.mp3
+#9,Stuart Russell,male,Long-Term Future of AI,12,9,2018,86,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_stuart_russell.mp3
+#8,Eric Schmidt,male,Google,12,4,2018,33,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_eric_schmidt.mp3
+#7,Jeff Atwood,male,Stack Overflow and Coding Horror,11,29,2018,80,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_jeff_atwood.mp3
+#6,Guido van Rossum,male,Python,11,22,2018,86,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_guido_van_rossum.mp3
+#5,Vladimir Vapnik,male,Statistical Learning,11,16,2018,54,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_vladimir_vapnik.mp3
+#4,Yoshua Bengio,male,Deep Learning,10,20,2018,42,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_yoshua_bengio.mp3
+#3,Steven Pinker,male,AI in the Age of Reason,10,17,2018,38,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_steven_pinker.mp3
+#2,Christof Koch,male,Consciousness,9,2,2018,59,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_christof_koch.mp3
+#1,Max Tegmark,male,Life 3.0,8,27,2018,82,https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/mit_ai_max_tegmark.mp3

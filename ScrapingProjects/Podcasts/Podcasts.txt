@@ -1,0 +1,7 @@
+Podcasts: Decoder and Lex Fridman (all episodes)
+
+Data from Podby.fm - Web scraping on Dec. 26th 2023
+
+Data cleaning: modified running time into minutes, separated month, day, year.
+
+In Lex_Fridman Data I separated Title_Nr., Guest and Title and deleted summary and Link.

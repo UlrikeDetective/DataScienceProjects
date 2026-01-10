@@ -1,7 +1,7 @@
 # Billionaires List 2021-2024
 
 
-![head_picture](Pictures/FireflyCrazy_rich_people.jpg)
+![head_picture](https://yt3.googleusercontent.com/ytc/AIdro_nulMc6GNIrLUi_wcTCKojfsfro0dsNLAueuj4edxt_Kl4T=s176-c-k-c0x00ffffff-no-rj-mo)
 
 ## About the Project
 This project serves as a learning experience for web scraping, MySQL database management, and data analysis of the Forbes billionaires list. The dataset spans from 2021 to 2023 yearly and includes monthly data for the year 2024. Last update July 2024.

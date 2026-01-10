@@ -7,7 +7,7 @@ Next data scraping and update end of June 2025.
 
 ## Finding Trends and Patterns
 
-![head_picture](https://github.com/UlrikeDetective/tech_layoffs/blob/main/tech_layoffs_pictures/tech_layoffs.png)
+![head_picture](https://github.com/UlrikeDetective/DataScienceProjects/blob/main/tech_layoffs/tech_layoffs_pictures/tech_layoffs.png))
 
 
 ### Table of Contents

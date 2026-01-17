@@ -1,42 +1,44 @@
-# Tech Layoffs Data Analysis 2020 - 2025
+# Tech Layoffs Tracker
+*A quiet observation of shifts in the digital landscape.*
 
-Dataset and data analytics of layoffs in the tech sector between 2020 - 2024. Source for the data is from layoffs.fyi.
+---
 
-Last data update April 02 2025.
-Next data scraping and update end of June 2025.
+## The Essence
+This project serves as a basin for data regarding technology sector layoffs. It aggregates, cleans, and visualizes workforce reductions to offer a clear, unadorned view of global industry trends. The analysis currently bridges the historical data of 2024 with the unfolding patterns of 2025.
 
-## Finding Trends and Patterns
+---
 
-![head_picture](https://github.com/UlrikeDetective/DataScienceProjects/blob/main/tech_layoffs/tech_layoffs_pictures/tech_layoffs.png))
+## The Layout
+A structured approach to understanding the data.
 
+**tech_layoffs_analysis/** ◦ *The Logic*
+Python and R scripts dedicated to cleaning, aggregating, and visualizing data. Contains interactive chart generation and geospatial mapping tools.
 
-### Table of Contents
-- [Tech Layoffs Analysis](https://github.com/UlrikeDetective/tech_layoffs/tree/main/tech_layoffs_analysis)
-- [Tech Layoffs CSV](https://github.com/UlrikeDetective/tech_layoffs/tree/main/tech_layoffs_csv)
-- [Tech Layoffs TXT](https://github.com/UlrikeDetective/tech_layoffs/tree/main/tech_layoffs_txt)
-- [Tech Layoffs Pictures](https://github.com/UlrikeDetective/tech_layoffs/tree/main/tech_layoffs_pictures)
+**tech_layoffs_csv/** ◦ *The Raw Material*
+The foundation of the analysis. Organized datasets tracking layoffs by company, location, and date, including recent 2025 quarterly reports.
 
-## Installation
+**tech_layoffs_sql/** ◦ *The Foundation*
+SQL schemas and scripts for structuring the data warehouse and facilitating queries.
 
+**tech_layoffs_pictures/** ◦ *The Visual*
+Static exports of data visualizations and map markers.
 
-mostly R
+---
 
-## Usage
+## Status
+⚪ **Active Analysis:** Currently processing and visualizing data for Q1 & Q2 2025.
+⚪ **Historical Record:** Comprehensive datasets for 2024 are finalized.
 
-learning R and doing experiements with data analytics
+---
 
-## Print
-```
-print('What's next?')
-```
+## Getting Started
+To interact with the analysis:
 
+1.  **The Environment** 🌿
+    Ensure Python is installed with `pandas` and `plotly` for the analysis scripts. R is required for specific data cleaning tasks.
 
-## License
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE](LICENSE) file for details.
+2.  **The Database** 🪵
+    Initialize the database structure using `tech_layoffs_sql/setupTechLayoffs.sql`.
 
-## Badges
-[![GitHub stars](https://img.shields.io/github/stars/UlrikeDetective/tech_layoffs)](https://github.com/UlrikeDetective/tech_layoffs/stargazers) [![GitHub forks](https://img.shields.io/github/forks/UlrikeDetective/tech_layoffs)](https://github.com/UlrikeDetective/tech_layoffs/network/members) 
-
-## GitHub Repository
-[Link to GitHub repository](https://github.com/UlrikeDetective/tech_layoffs)
-
+3.  **The Analysis** 🌊
+    Run the Jupyter notebooks in `tech_layoffs_analysis/` to generate fresh insights from the `tech_layoffs_csv/` data.

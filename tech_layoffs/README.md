@@ -1,44 +1,46 @@
-# Tech Layoffs Tracker
-*A quiet observation of shifts in the digital landscape.*
+# > ./tech_layoffs_tracker
+
+> **SYSTEM_STATUS**: ONLINE
+> **CURRENT_TARGET**: 2025 Global Workforce Metrics
+
+## [ ROOT_ACCESS ]
+This repository acts as the central mainframe for intercepting, parsing, and visualizing layoff telemetry from the global tech sector. It leverages SQL for data structuring and Python/R kernels for high-level statistical analysis and geospatial plotting.
+
+## [ FILESYSTEM_MAP ]
+
+```bash
+/root
+├── tech_layoffs_analysis/   # [BIN] Analysis kernels (Python/R) & Plotly modules
+├── tech_layoffs_csv/        # [DAT] Raw payloads (2024 archives + 2025 live stream)
+├── tech_layoffs_sql/        # [SQL] Database schemas & ETL scripts
+└── tech_layoffs_pictures/   # [IMG] Rendered visual artifacts
+```
+
+## [ OPERATION_LOG ]
+
+*   **[COMPLETED]** :: 2024 Data Aggregation & Archival.
+*   **[RUNNING]**   :: 2025 Q1/Q2 Data Ingestion.
+*   **[ACTIVE]**    :: Geospatial mapping & interactive dashboard generation.
+
+## [ EXECUTION_PROTOCOL ]
+
+1.  **Dependency Injection**
+    Load the required modules for the runtime environment.
+    ```bash
+    pip install pandas plotly notebook
+    ```
+
+2.  **Database Initialization**
+    Execute the setup script to build the data warehouse.
+    ```sql
+    \i tech_layoffs_sql/setupTechLayoffs.sql
+    ```
+
+3.  **Run Analysis**
+    Launch the Jupyter kernels to process the stream.
+    ```bash
+    jupyter notebook tech_layoffs_analysis/tech_layoffs_2025.ipynb
+    ```
 
 ---
-
-## The Essence
-This project serves as a basin for data regarding technology sector layoffs. It aggregates, cleans, and visualizes workforce reductions to offer a clear, unadorned view of global industry trends. The analysis currently bridges the historical data of 2024 with the unfolding patterns of 2025.
-
----
-
-## The Layout
-A structured approach to understanding the data.
-
-**tech_layoffs_analysis/** ◦ *The Logic*
-Python and R scripts dedicated to cleaning, aggregating, and visualizing data. Contains interactive chart generation and geospatial mapping tools.
-
-**tech_layoffs_csv/** ◦ *The Raw Material*
-The foundation of the analysis. Organized datasets tracking layoffs by company, location, and date, including recent 2025 quarterly reports.
-
-**tech_layoffs_sql/** ◦ *The Foundation*
-SQL schemas and scripts for structuring the data warehouse and facilitating queries.
-
-**tech_layoffs_pictures/** ◦ *The Visual*
-Static exports of data visualizations and map markers.
-
----
-
-## Status
-⚪ **Active Analysis:** Currently processing and visualizing data for Q1 & Q2 2025.
-⚪ **Historical Record:** Comprehensive datasets for 2024 are finalized.
-
----
-
-## Getting Started
-To interact with the analysis:
-
-1.  **The Environment** 🌿
-    Ensure Python is installed with `pandas` and `plotly` for the analysis scripts. R is required for specific data cleaning tasks.
-
-2.  **The Database** 🪵
-    Initialize the database structure using `tech_layoffs_sql/setupTechLayoffs.sql`.
-
-3.  **The Analysis** 🌊
-    Run the Jupyter notebooks in `tech_layoffs_analysis/` to generate fresh insights from the `tech_layoffs_csv/` data.
+*// End of transmission*

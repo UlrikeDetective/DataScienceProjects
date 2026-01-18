@@ -5,7 +5,8 @@ State
 =VLOOKUP([@[Location_HQ]];tech_layoffs_location!A:C;3;FALSE)
 
 Country
-=VLOOKUP([@[Location_HQ]];tech_layoffs_location!A:D;4;FALSE)
+=VLOOKUP([@[Location_HQ]];layoffs_location_with_coordinat!A:D;4;FALSE)
+
 
 Continent
 =VLOOKUP([@[Location_HQ]];tech_layoffs_location!A:E;5;FALSE)
@@ -15,3 +16,9 @@ Laditude
 
 Longitude
 =VLOOKUP([@[Location_HQ]];tech_layoffs_location!A:G;7;FALSE)
+
+=DATE(
+RIGHT(D2;4);
+MATCH(MID(D2;4;3);{"Jan";"Feb";"Mar";"Apr";"May";"Jun";"Jul";"Aug";"Sep";"Oct";"Nov";"Dec"};0);
+LEFT(D2;2)
+)

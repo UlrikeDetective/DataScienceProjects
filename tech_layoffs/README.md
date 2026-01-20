@@ -18,7 +18,7 @@ https://companiesmarketcap.com/tech/largest-tech-companies-by-number-of-employee
 ```bash
 /root
 ├── tech_layoffs_analysis/   # [BIN] Analysis kernels (Python/R) & Plotly modules
-├── tech_layoffs_csv/        # [DAT] Raw payloads (2024 archives + 2025 live stream)
+├── tech_layoffs_csv/        # [DAT] Raw payloads (til end of 2025
 ├── tech_layoffs_sql/        # [SQL] Database schemas & ETL scripts
 └── tech_layoffs_pictures/   # [IMG] Rendered visual artifacts
 ```
@@ -26,7 +26,7 @@ https://companiesmarketcap.com/tech/largest-tech-companies-by-number-of-employee
 ## [ OPERATION_LOG ]
 
 - **[COMPLETED]** :: 2024 Data Aggregation & Archival.
-- **[RUNNING]** :: 2025 Q1/Q2 Data Ingestion.
+- **[RUNNING]** :: 2025 Data Ingestion.
 - **[ACTIVE]** :: Geospatial mapping & interactive dashboard generation.
 
 ## [ EXECUTION_PROTOCOL ]

@@ -2417,7 +2417,7 @@ Nr,Company,Location_HQ,Region,USState,Country,Continent,Laid_Off,Date_layoffs,Pe
 2416,Hailo,Tel Aviv-Yafo,other,non,Israel,Asia,30.0,2026-01-08,10.0,300.0,270.0,Semiconductor Manufacturing,Unknown,,2026,32.0852997,34.7818064
 2417,OKX,San Jose,San Francisco Bay Area,California,USA,North America,10.0,2026-01-09,,,,Crypto Exchange,Unknown,,2026,37.3361663,-121.890591
 2418,FormFactor,San Francisco,San Francisco Bay Area,California,USA,North America,200.0,2026-01-09,,,,Semiconductor test and measurement,Unknown,,2026,37.7879363,-122.4075201
-2419,Amazon,United States,other,non,United States,Unknown,2500.0,2026-01-11,,,,Retail,Unknown,,2026,38.8939168,-77.0426534
+2419,Amazon,,other,non,USA,Unknown,2500.0,2026-01-11,,,,Retail,Unknown,,2026,38.8939168,-77.0426534
 2420,Meta,Menlo Park,San Francisco Bay Area,California,USA,North America,,2026-01-12,10.0,,,Software Development,Unknown,,2026,37.4519671,-122.177992
 2421,Sapiens,Holon,other,non,Israel,Asia,,2026-01-12,10.0,,,Software,Unknown,,2026,32.0193121,34.7804076
 2422,StoreDot,Herzliya,other,non,Israel,Asia,,2026-01-13,,,,Fast-charging battery developer,Unknown,,2026,32.1676842,34.8308279
@@ -2588,6 +2588,6 @@ Nr,Company,Location_HQ,Region,USState,Country,Continent,Laid_Off,Date_layoffs,Pe
 2587,AI21 Labs,Tel Aviv-Yafo,other,non,Israel,Asia,,2026-05-18,60.0,,,Software Development,Unknown,,2026,32.0852997,34.7818064
 2588,Intuit,Mountain View,San Francisco Bay Area,non,USA,North America,3000.0,2026-05-20,17.0,17647.0,14647.0,Enterprise software,Unknown,,2026,37.3893889,-122.0832101
 2589,Meta,Menlo Park,San Francisco Bay Area,California,USA,North America,8000.0,2026-05-20,10.0,80000.0,72000.0,Software Development,Unknown,,2026,37.4519671,-122.177992
-2590,Bankless,United States,other,non,United States,Unknown,,2026-05-21,,,,Media Production,Unknown,,2026,38.8939168,-77.0426534
+2590,Bankless,,other,non,USA,Unknown,,2026-05-21,,,,Media Production,Unknown,,2026,38.8939168,-77.0426534
 2591,ClickUp,San Diego,other,non,USA,North America,,2026-05-21,22.0,,,AI Workspace,Unknown,,2026,32.7174202,-117.162772
 2592,Quantic Dream,Paris,other,non,France,Europe,95.0,2026-05-21,,,,Computer Games,Unknown,,2026,48.8588897,2.320041

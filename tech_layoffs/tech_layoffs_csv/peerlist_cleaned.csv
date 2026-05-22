@@ -1,0 +1,181 @@
+Nr,Company,Location_HQ,Region,USState,Country,Continent,Laid_Off,Date_layoffs,Percentage,Company_Size_before_Layoffs,Company_Size_after_layoffs,Industry,Stage,Money_Raised_in__mil,Year,latitude,longitude
+1,Ola Electric,Bengaluru,other,Karnataka,India,Asia,620.0,2026-01-31,5.0,12400.0,11780.0,Motor Vehicle Manufacturing,Unknown,,2026,12.9767936,77.590082
+2,Amazon,Seattle,Cascadia,Washington,USA,North America,16000.0,2026-01-30,,,,Software Development,Unknown,,2026,47.6038321,-122.330062
+3,Zupee,Gurugram,other,Haryana,India,Asia,200.0,2026-01-30,40.0,500.0,300.0,Entertainment Providers,Unknown,,2026,28.4646148,77.0299194
+4,Zillow,Seattle,Cascadia,Washington,USA,North America,200.0,2026-01-30,,,,Multiple Listing Service (MLS) Software,Unknown,,2026,47.6038321,-122.330062
+5,ASML,Veldhoven,other,non,Netherlands,Europe,1700.0,2026-01-29,,,,Semiconductor Manufacturing,Unknown,,2026,51.4190691,5.4045572
+6,NetEase,Hangzhou,other,non,China,Asia,,2026-01-28,,,,Online gaming,Unknown,,2026,30.2489634,120.2052342
+7,Pinterest,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-01-27,15.0,,,Social Networking Software,Unknown,,2026,37.7879363,-122.4075201
+8,Moon Active,Tel Aviv-Yafo,other,non,Israel,Asia,110.0,2026-01-27,5.0,2200.0,2090.0,Computer Games,Unknown,,2026,32.0852997,34.7818064
+9,Entropy,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-01-25,100.0,,,Crypto,Unknown,,2026,37.7879363,-122.4075201
+10,Nifty Gateway,New York,other,New York,USA,North America,,2026-01-24,100.0,,,Entertainment Providers,Unknown,,2026,40.7127281,-74.0060152
+11,Vimeo,New York,other,New York,USA,North America,,2026-01-23,,,,Video Hosting Platform,Unknown,,2026,40.7127281,-74.0060152
+12,Starbreeze,Stockholm,other,non,Sweden,Europe,,2026-01-23,,,,Computer Games,Unknown,,2026,59.3251172,18.0710935
+13,Autodesk,San Francisco,San Francisco Bay Area,California,USA,North America,1000.0,2026-01-22,,,,Software Development,Unknown,,2026,37.7879363,-122.4075201
+14,Code.org,Seattle,Cascadia,Washington,USA,North America,18.0,2026-01-21,,,,Primary and Secondary Education,Unknown,,2026,47.6038321,-122.330062
+15,Polygon Labs,New York,other,New York,USA,North America,60.0,2026-01-16,30.0,200.0,140.0,Crypto,Unknown,,2026,40.7127281,-74.0060152
+16,Ericsson,Sweden,other,non,Sweden,Europe,1600.0,2026-01-15,,,,Telecommunications,Unknown,,2026,59.3382751,18.0718928
+17,Polygon Labs,New York,other,New York,USA,North America,,2026-01-15,30.0,,,Blockchain,Unknown,,2026,40.7127281,-74.0060152
+18,Tipalti,Foster City,San Francisco Bay Area,non,USA,North America,100.0,2026-01-15,,,,Fintech,Unknown,,2026,37.5600336,-122.2688522
+19,Playtika,Herzliya,other,non,Israel,Asia,500.0,2026-01-14,15.0,3333.0,2833.0,Computer Games,Unknown,,2026,32.1676842,34.8308279
+20,eToro,London,other,England,UK,Europe,105.0,2026-01-13,,,,Financial Services,Unknown,,2026,51.5074456,-0.1277653
+21,StoreDot,Herzliya,other,non,Israel,Asia,,2026-01-13,,,,Fast-charging battery developer,Unknown,,2026,32.1676842,34.8308279
+22,Sapiens,Holon,other,non,Israel,Asia,,2026-01-12,10.0,,,Software,Unknown,,2026,32.0193121,34.7804076
+23,Meta,Menlo Park,San Francisco Bay Area,California,USA,North America,,2026-01-12,10.0,,,Software Development,Unknown,,2026,37.4519671,-122.177992
+24,Amazon,United States,other,non,United States,Unknown,2500.0,2026-01-11,,,,Retail,Unknown,,2026,38.8939168,-77.0426534
+25,FormFactor,San Francisco,San Francisco Bay Area,California,USA,North America,200.0,2026-01-09,,,,Semiconductor test and measurement,Unknown,,2026,37.7879363,-122.4075201
+26,OKX,San Jose,San Francisco Bay Area,California,USA,North America,10.0,2026-01-09,,,,Crypto Exchange,Unknown,,2026,37.3361663,-121.890591
+27,Hailo,Tel Aviv-Yafo,other,non,Israel,Asia,30.0,2026-01-08,10.0,300.0,270.0,Semiconductor Manufacturing,Unknown,,2026,32.0852997,34.7818064
+28,TailwindCSS,Oklahoma City,other,Oklahoma,USA,North America,3.0,2026-01-08,75.0,4.0,1.0,Software Development,Unknown,,2026,35.4729886,-97.5170536
+29,Cloudhead Games,Qualicum Beach,other,British Columbia,Canada,North America,,2026-01-07,70.0,,,Computer games,Unknown,,2026,49.3479861,-124.4439409
+30,Ubisoft,France,other,non,France,Europe,,2026-01-07,,,,Computer Games,Unknown,,2026,50.1024606,2.7247515
+31,Block,Oakland,San Francisco Bay Area,California,USA,North America,4000.0,2026-02-27,,,,Financial Services,Unknown,,2026,37.8044557,-122.271356
+32,WiseTech Global,Sydney,other,New South Wales,Australia,Oceana,2000.0,2026-02-25,30.0,6667.0,4667.0,Logistics software,Unknown,,2026,-33.8698439,151.2082848
+33,TrueCar,Santa Monica,other,California,USA,North America,,2026-02-24,30.0,,,Car marketplace,Unknown,,2026,34.0194704,-118.491227
+34,C3.ai,Redwood City,San Francisco Bay Area,California,USA,North America,71.0,2026-02-24,,,,Enterprise AI,Unknown,,2026,37.4863239,-122.232523
+35,Tencent,Shenzhen,other,non,China,Asia,,2026-02-22,,,,Software Development,Unknown,,2026,22.5445741,114.0545429
+36,Livspace,Bengaluru,other,Karnataka,India,Asia,1000.0,2026-02-20,12.0,8333.0,7333.0,Consumer,Unknown,,2026,12.9767936,77.590082
+37,Lucid Motors,Newark,San Francisco Bay Area,California,USA,North America,,2026-02-20,12.0,,,Lucid Motors,Unknown,,2026,40.735657,-74.1723667
+38,AOL,New York,other,New York,USA,North America,100.0,2026-02-20,,,,Software Development,Unknown,,2026,40.7127281,-74.0060152
+39,Firebolt,Palo Alto,San Francisco Bay Area,California,USA,North America,,2026-02-20,,,,Analytical Database,Unknown,,2026,37.4443293,-122.1598465
+40,FanDuel,New York,other,New York,USA,North America,74.0,2026-02-20,,,,Entertainment Providers,Unknown,,2026,40.7127281,-74.0060152
+41,Ubisoft,Toronto,other,Ontario,Canada,North America,40.0,2026-02-19,,,,Computer Games,Unknown,,2026,43.6534817,-79.3839347
+42,HCLTech,Noida,other,Uttar Pradesh,India,Asia,100.0,2026-02-19,,,,IT consulting,Unknown,,2026,28.5706333,77.3272147
+43,Sony,Tokyo,other,non,Japan,Asia,70.0,2026-02-19,,,,Entertainment Providers,Unknown,,2026,35.6768601,139.7638947
+44,Cyberark,Newton,other,non,USA,North America,500.0,2026-02-17,,,,Security,Unknown,,2026,30.8118989,-93.740504
+45,Huawei,Tel Aviv-Yafo,other,non,Israel,Asia,50.0,2026-02-15,12.0,417.0,367.0,Consumer electronics and telecom equipment,Unknown,,2026,32.0852997,34.7818064
+46,Axonius,New York,other,New York,USA,North America,40.0,2026-02-15,4.0,1000.0,960.0,Cybersecurity,Unknown,,2026,40.7127281,-74.0060152
+47,Startup Nation Central,Tel Aviv-Yafo,other,non,Israel,Asia,65.0,2026-02-13,81.0,80.0,15.0,Non-profit Organizations,Unknown,,2026,32.0852997,34.7818064
+48,xAI,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-02-12,,,,Artificial intelligence research,Unknown,,2026,37.7879363,-122.4075201
+49,Hinterland,Vancouver,Cascadia,British Columbia,Canada,North America,10.0,2026-02-12,,,,Computer Games,Unknown,,2026,49.2608724,-123.113952
+50,Netflix,Los Gatos,other,California,USA,North America,50.0,2026-02-12,,,,Entertainment Providers,Unknown,,2026,37.226611,-121.9746797
+51,Clari,Sunnyvale,San Francisco Bay Area,California,USA,North America,76.0,2026-02-12,,,,Revenue operations,Unknown,,2026,37.3688301,-122.036349
+52,Salesforce,San Francisco,San Francisco Bay Area,California,USA,North America,1000.0,2026-02-11,,,,Software Development,Unknown,,2026,37.7879363,-122.4075201
+53,Cycurion,McLean,other,non,USA,North America,,2026-02-11,,,,Computer and Network Security,Unknown,,2026,40.4631789,-88.8196613
+54,Fi,Bengaluru,other,Karnataka,India,Asia,,2026-02-11,,,,Fintech,Unknown,,2026,12.9767936,77.590082
+55,Telstra,Sydney,other,New South Wales,Australia,Oceana,650.0,2026-02-11,,,,Telecommunications,Unknown,,2026,-33.8698439,151.2082848
+56,Glossier,New York,other,New York,USA,North America,50.0,2026-02-11,,,,Retail,Unknown,,2026,40.7127281,-74.0060152
+57,Power Integrations,San Jose,San Francisco Bay Area,California,USA,North America,,2026-02-10,7.0,,,Semiconductor Manufacturing,Unknown,,2026,37.3361663,-121.890591
+58,ams OSRAM,Australia,other,non,Australia,Oceana,2000.0,2026-02-10,,,,Semiconductor Manufacturing,Unknown,,2026,-35.2965236,149.1295736
+59,Block,Oakland,San Francisco Bay Area,California,USA,North America,,2026-02-08,10.0,,,Financial Services,Unknown,,2026,37.8044557,-122.271356
+60,Ocado,Hatfield,other,non,UK,Europe,1000.0,2026-02-08,,,,Retail,Unknown,,2026,51.7634675,-0.2258741
+61,Workday,Pleasanton,San Francisco Bay Area,non,USA,North America,400.0,2026-02-05,,,,Enterprise Cloud Platforms,Unknown,,2026,37.6624312,-121.8746789
+62,The Washington Post,Washington,other,District of Columbia,USA,North America,300.0,2026-02-05,,,,Newspaper Publishing,Unknown,,2026,38.8950982,-77.0363849
+63,Gemini,New York,other,New York,USA,North America,200.0,2026-02-05,,,,Financial Services,Unknown,,2026,40.7127281,-74.0060152
+64,Myntra,Bengaluru,other,Karnataka,India,Asia,,2026-02-05,,,,E-commerce,Unknown,,2026,12.9767936,77.590082
+65,Western Digital,San Jose,San Francisco Bay Area,California,USA,North America,47.0,2026-02-05,,,,Computer Hardware Manufacturing,Unknown,,2026,37.3361663,-121.890591
+66,Angi,Denver,other,Colorado,USA,North America,350.0,2026-02-05,,,,Collection of marketplaces for home services,Unknown,,2026,39.7392364,-104.984862
+67,Scope3,New York,other,New York,USA,North America,,2026-02-05,,,,Adtech startup,Unknown,,2026,40.7127281,-74.0060152
+68,Pinterest,San Francisco,San Francisco Bay Area,California,USA,North America,2.0,2026-02-04,,,,Social Networking Software,Unknown,,2026,37.7879363,-122.4075201
+69,Remitly,Israel,other,non,Israel,Asia,110.0,2026-02-04,,,,Financial Services,Unknown,,2026,-16.1606791,-67.1497938
+70,Smartsheet,Bellevue,Cascadia,Washington,USA,North America,,2026-02-04,,,,Intelligent Work Management platform,Unknown,,2026,47.6144219,-122.192337
+71,Yupp,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-03-31,100.0,,,"Technology, Information and Internet",Unknown,,2026,37.7879363,-122.4075201
+72,Eidos-Montréal,Montreal,other,Quebec,Canada,North America,124.0,2026-03-31,,,,Computer Games,Unknown,,2026,45.5031824,-73.5698065
+73,Nokia,Espoo,other,non,Finland,Europe,14000.0,2026-03-31,,,,Telecommunications,Unknown,,2026,60.2049651,24.6559808
+74,Kuda,London,other,England,UK,Europe,,2026-03-30,,,,Financial Services,Unknown,,2026,51.5074456,-0.1277653
+75,CoverMyMeds (part of McKesson Corporation),Columbus,other,Ohio,USA,North America,,2026-03-30,,,,Medication Access Company,Unknown,,2026,39.9622601,-83.0007065
+76,Rec Room,Seattle,Cascadia,Washington,USA,North America,,2026-03-30,100.0,,,Gaming,Unknown,,2026,47.6038321,-122.330062
+77,X,Bastrop,other,Texas,USA,North America,20.0,2026-03-27,,,,Software Development,Unknown,,2026,30.0541116,-97.3887764
+78,T- Mobile,Bellevue,Cascadia,Washington,USA,North America,,2026-03-27,,,,Telecommunications,Unknown,,2026,47.6144219,-122.192337
+79,Fiserv,Milwaukee,other,Wisconsin,USA,North America,118.0,2026-03-27,,,,IT Services and IT Consulting,Unknown,,2026,43.0386475,-87.9090751
+80,Meta,Menlo Park,San Francisco Bay Area,California,USA,North America,700.0,2026-03-26,,,,Software Development,Unknown,,2026,37.4519671,-122.177992
+81,Lean In,Palo Alto,San Francisco Bay Area,California,USA,North America,,2026-03-26,25.0,,,Non-profit Organizations,Unknown,,2026,37.4443293,-122.1598465
+82,Epic Games,Cary,other,North Carolina,USA,North America,1000.0,2026-03-24,,,,Computer Games,Unknown,,2026,35.7882893,-78.7812081
+83,Synopsys,Sunnyvale,San Francisco Bay Area,California,USA,North America,55.0,2026-03-24,,,,Software Development,Unknown,,2026,37.3688301,-122.036349
+84,OpenText,Waterloo,other,Ontario,Canada,North America,,2026-03-24,,,,Data,Unknown,,2026,43.4652699,-80.5222961
+85,Spotify,Stockholm,other,non,Sweden,Europe,15.0,2026-03-23,,,,Music streaming service,Unknown,,2026,59.3251172,18.0710935
+86,Crypto.com,Singapore,other,non,Singapore,Asia,,2026-03-20,12.0,,,Financial Services,Unknown,,2026,1.2899175,103.8519072
+87,Gemini,New York,other,New York,USA,North America,,2026-03-20,25.0,,,Financial Services,Unknown,,2026,40.7127281,-74.0060152
+88,Snowflake,Bozeman,other,Montana,USA,North America,70.0,2026-03-20,,,,Cloud data warehouse,Unknown,,2026,45.6794293,-111.044047
+89,Algorand Foundation,New York,other,New York,USA,North America,,2026-03-19,25.0,,,Cryptocurrency,Unknown,,2026,40.7127281,-74.0060152
+90,Ubisoft,Paris,other,non,France,Europe,105.0,2026-03-19,,,,Computer Games,Unknown,,2026,48.8588897,2.320041
+91,Dell,Round Rock,other,non,USA,North America,,2026-03-17,,,,Computer Hardware Manufacturing,Unknown,,2026,30.5085915,-97.6788056
+92,WB Games Montreal,Montreal,other,Quebec,Canada,North America,,2026-03-16,,,,Entertainment,Unknown,,2026,45.5031824,-73.5698065
+93,Messari,New York,other,New York,USA,North America,,2026-03-16,,,,Crypto Market Intelligence,Unknown,,2026,40.7127281,-74.0060152
+94,Digg,New York,other,New York,USA,North America,,2026-03-13,,,,Consumer,Unknown,,2026,40.7127281,-74.0060152
+95,Loopio,Toronto,other,Ontario,Canada,North America,,2026-03-13,12.0,,,Software Development,Unknown,,2026,43.6534817,-79.3839347
+96,Stone,Sao Paulo,other,non,Brazil,South America,400.0,2026-03-13,3.0,13333.0,12933.0,Finance,Unknown,,2026,-23.5506507,-46.6333824
+97,Atlassian,Sydney,other,New South Wales,Australia,Oceana,1600.0,2026-03-12,10.0,16000.0,14400.0,Software Development,Unknown,,2026,-33.8698439,151.2082848
+98,Dream11,Mumbai,other,Maharashtra,India,Asia,100.0,2026-03-12,,,,Fantasy sports,Unknown,,2026,19.054999,72.8692035
+99,Optimism Foundation,New York,other,New York,USA,North America,,2026-03-12,20.0,,,Ethereum scalability,Unknown,,2026,40.7127281,-74.0060152
+100,InvestCloud,West Hollywood,other,California,USA,North America,150.0,2026-03-10,,,,Financial Services,Unknown,,2026,34.0923014,-118.3692894
+101,Flipkart,Bengaluru,other,Karnataka,India,Asia,500.0,2026-03-06,,,,Retail,Unknown,,2026,12.9767936,77.590082
+102,Compass,New York,other,New York,USA,North America,110.0,2026-03-06,,,,Real Estate Technology,Unknown,,2026,40.7127281,-74.0060152
+103,SSense,Montreal,other,Quebec,Canada,North America,215.0,2026-03-05,,,,Retail,Unknown,,2026,45.5031824,-73.5698065
+104,nDreams,Farnborough,other,non,UK,Europe,,2026-03-05,,,,Computer Games,Unknown,,2026,51.2918693,-0.7539836
+105,Halfbrick,Brisbane,other,Queensland,Australia,Oceana,41.0,2026-03-04,,,,Computer Games,Unknown,,2026,-27.4689623,153.0235009
+106,Envato,Melbourne,other,Victoria,Australia,Oceana,200.0,2026-03-04,30.0,667.0,467.0,Creative Marketplace,Unknown,,2026,-37.8142454,144.9631732
+107,At-Bay,Tel Aviv-Yafo,other,non,Israel,Asia,25.0,2026-03-04,,,,Insurance for cybersecurity threats,Unknown,,2026,32.0852997,34.7818064
+108,Amazon,Seattle,Cascadia,Washington,USA,North America,,2026-03-04,,,,E-commerce,Unknown,,2026,47.6038321,-122.330062
+109,Verint Systems,New York,other,New York,USA,North America,,2026-03-02,,,,Security,Unknown,,2026,40.7127281,-74.0060152
+110,MicroVision,Redmond,Cascadia,non,USA,North America,49.0,2026-03-02,,,,Computers and Electronics Manufacturing,Unknown,,2026,47.6694141,-122.1238767
+111,Underdog,Brooklyn,other,New York,USA,North America,125.0,2026-03-02,20.0,625.0,500.0,Spectator Sports,Unknown,,2026,40.6526006,-73.9497211
+112,IAC,New York,other,New York,USA,North America,77.0,2026-04-28,,,,Software Development,Unknown,,2026,40.7127281,-74.0060152
+113,Pentera,Burlington,other,Massachusetts,USA,North America,40.0,2026-04-27,10.0,400.0,360.0,Security Validation,Unknown,,2026,44.4761601,-73.212906
+114,Qualtrics,Seattle,Cascadia,Washington,USA,North America,5.0,2026-04-24,,,,Software Development,Unknown,,2026,47.6038321,-122.330062
+115,Sight,Tel Aviv-Yafo,other,non,Israel,Asia,20.0,2026-04-21,100.0,20.0,0.0,Biotechnology Research,Unknown,,2026,32.0852997,34.7818064
+116,Meta,Menlo Park,San Francisco Bay Area,California,USA,North America,8000.0,2026-04-20,,,,Software Development,Unknown,,2026,37.4519671,-122.177992
+117,Amazon,Seattle,Cascadia,Washington,USA,North America,600.0,2026-04-20,,,,E-commerce,Unknown,,2026,47.6038321,-122.330062
+118,Acko,Bengaluru,other,Karnataka,India,Asia,60.0,2026-04-20,5.0,1200.0,1140.0,Insurance,Unknown,,2026,12.9767936,77.590082
+119,Sama,Kenya,other,non,Kenya,Africa,1100.0,2026-04-17,,,,Data annotation for artificial intelligence,Unknown,,2026,-0.4172695,36.1437369
+120,GeoComply,Vancouver,Cascadia,British Columbia,Canada,North America,80.0,2026-04-17,15.0,533.0,453.0,Software Development,Unknown,,2026,49.2608724,-123.113952
+121,Iron Galaxy Studios,Chicago,other,Illinois,USA,North America,,2026-04-17,,,,Computer Games,Unknown,,2026,41.8755616,-87.6244212
+122,Artsy,New York,other,New York,USA,North America,,2026-04-17,,,,Online art marketplace.,Unknown,,2026,40.7127281,-74.0060152
+123,Vianai Systems,Palo Alto,San Francisco Bay Area,California,USA,North America,,2026-04-16,90.0,,,Enterprise artificial intelligence,Unknown,,2026,37.4443293,-122.1598465
+124,Shutterfly,San Jose,San Francisco Bay Area,California,USA,North America,80.0,2026-04-16,,,,Photo Printing,Unknown,,2026,37.3361663,-121.890591
+125,Snap,Santa Monica,other,California,USA,North America,1000.0,2026-04-15,,,,Software Development,Unknown,,2026,34.0194704,-118.491227
+126,PayRay bank,Vilnius,other,non,Lithuania,Europe,,2026-04-15,40.0,,,Banking,Unknown,,2026,54.6870458,25.2829111
+127,Nayax,Herzliya,other,non,Israel,Asia,32.0,2026-04-15,3.0,1067.0,1035.0,Financial Services,Unknown,,2026,32.1676842,34.8308279
+128,Taboola,New York,other,New York,USA,North America,100.0,2026-04-15,5.0,2000.0,1900.0,Advertising Technology,Unknown,,2026,40.7127281,-74.0060152
+129,Productboard,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-04-15,30.0,,,Product,Unknown,,2026,37.7879363,-122.4075201
+130,The Walt Disney Company,Burbank,other,non,USA,North America,1000.0,2026-04-14,,,,Entertainment Providers,Unknown,,2026,34.1812089,-118.307201
+131,Eventbrite,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-04-14,,,,The ticket marketplace,Unknown,,2026,37.7879363,-122.4075201
+132,StarkWare,Netanya,other,non,Israel,Asia,,2026-04-13,,,,Software Development,Unknown,,2026,32.3286181,34.8566246
+133,Life360,San Mateo,San Francisco Bay Area,non,USA,North America,,2026-04-10,,,,Individual and Family Services,Unknown,,2026,37.496904,-122.3330573
+134,Qualcomm,San Diego,other,non,USA,North America,66.0,2026-04-10,,,,Semiconductor Manufacturing,Unknown,,2026,32.7174202,-117.162772
+135,HCLTech,Noida,other,Uttar Pradesh,India,Asia,120.0,2026-04-08,,,,IT Services and IT Consulting,Unknown,,2026,28.5706333,77.3272147
+136,Pendo,Raleigh,other,non,USA,North America,90.0,2026-04-07,10.0,900.0,810.0,Product Analytics Software,Unknown,,2026,35.7803977,-78.6390989
+137,GoPro,San Mateo,San Francisco Bay Area,non,USA,North America,145.0,2026-04-07,23.0,630.0,485.0,Action cameras,Unknown,,2026,37.496904,-122.3330573
+138,Take-Two Interactive,New York,other,New York,USA,North America,,2026-04-05,,,,Gaming,Unknown,,2026,40.7127281,-74.0060152
+139,Bolt,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-04-05,33.0,,,Finance,Unknown,,2026,37.7879363,-122.4075201
+140,NeuroPixel.AI,Bengaluru,other,Karnataka,India,Asia,,2026-04-03,100.0,,,AI startup,Unknown,,2026,12.9767936,77.590082
+141,Kintsugi,Berkeley,San Francisco Bay Area,non,USA,North America,,2026-04-02,100.0,,,Mental Health Care startup,Unknown,,2026,37.8708393,-122.272863
+142,GDIT,Falls Church,other,non,USA,North America,95.0,2026-04-02,,,,IT Services and IT Consulting,Unknown,,2026,38.882334,-77.1710914
+143,Vimeo,New York,other,New York,USA,North America,130.0,2026-04-02,,,,Video Hosting Platform,Unknown,,2026,40.7127281,-74.0060152
+144,Meta,San Francisco,San Francisco Bay Area,California,USA,North America,200.0,2026-04-02,,,,Software Development,Unknown,,2026,37.7879363,-122.4075201
+145,Oracle,Austin,other,Texas,USA,North America,30000.0,2026-04-01,,,,IT Services and IT Consulting,Unknown,,2026,30.2711286,-97.7436995
+146,Monzo,London,other,England,UK,Europe,50.0,2026-04-01,,,,Banking,Unknown,,2026,51.5074456,-0.1277653
+147,Polyarc,Seattle,Cascadia,Washington,USA,North America,30.0,2026-04-01,,,,Video Games,Unknown,,2026,47.6038321,-122.330062
+148,ClickUp,San Diego,other,non,USA,North America,,2026-05-21,22.0,,,AI Workspace,Unknown,,2026,32.7174202,-117.162772
+149,Quantic Dream,Paris,other,non,France,Europe,95.0,2026-05-21,,,,Computer Games,Unknown,,2026,48.8588897,2.320041
+150,Bankless,United States,other,non,United States,Unknown,,2026-05-21,,,,Media Production,Unknown,,2026,38.8939168,-77.0426534
+151,Meta,Menlo Park,San Francisco Bay Area,California,USA,North America,8000.0,2026-05-20,10.0,80000.0,72000.0,Software Development,Unknown,,2026,37.4519671,-122.177992
+152,Intuit,Mountain View,San Francisco Bay Area,non,USA,North America,3000.0,2026-05-20,17.0,17647.0,14647.0,Enterprise software,Unknown,,2026,37.3893889,-122.0832101
+153,SQream,New York,other,New York,USA,North America,,2026-05-18,100.0,,,Software Development,Unknown,,2026,40.7127281,-74.0060152
+154,AI21 Labs,Tel Aviv-Yafo,other,non,Israel,Asia,,2026-05-18,60.0,,,Software Development,Unknown,,2026,32.0852997,34.7818064
+155,Dune Analytics,Oslo,other,non,Norway,Europe,,2026-05-15,25.0,,,Crypto data analytics,Unknown,,2026,59.9133301,10.7389701
+156,Kraken,Cheyenne,other,non,USA,North America,150.0,2026-05-15,5.0,3000.0,2850.0,Financial Services,Unknown,,2026,41.139981,-104.820246
+157,Gameteq,Limassol,other,non,Cyprus,Europe,40.0,2026-05-15,,,,Computer Games,Unknown,,2026,34.6852901,33.0332657
+158,Gambling.com,Dublin,other,non,Ireland,Europe,,2026-05-15,25.0,,,Gambling Facilities and Casinos,Unknown,,2026,53.3493795,-6.2605593
+159,Innovaccer,San Francisco,San Francisco Bay Area,California,USA,North America,340.0,2026-05-15,,,,Healthcare,Unknown,,2026,37.7879363,-122.4075201
+160,Cisco,San Jose,San Francisco Bay Area,California,USA,North America,4000.0,2026-05-14,,,,Software Development,Unknown,,2026,37.3361663,-121.890591
+161,LinkedIn,Sunnyvale,San Francisco Bay Area,California,USA,North America,875.0,2026-05-14,5.0,17500.0,16625.0,Software Development,Unknown,,2026,37.3688301,-122.036349
+162,Playtika,Berlin,other,non,Germany,Europe,,2026-05-14,,,,Computer Games,Unknown,,2026,52.5173885,13.3951309
+163,Guesty,Israel,other,non,Israel,Asia,20.0,2026-05-13,,,,Property management software,Unknown,,2026,-16.1606791,-67.1497938
+164,Night Street Games,Las Vegas,other,non,USA,North America,,2026-05-13,,,,Computer Games,Unknown,,2026,36.1674263,-115.1484131
+165,Walmart,Bentonville,other,non,USA,North America,1000.0,2026-05-12,,,,Technology,Unknown,,2026,36.3728608,-94.208787
+166,ZoomInfo,Vancouver,Cascadia,British Columbia,USA,North America,300.0,2026-05-11,,,,Software Development,Unknown,,2026,45.6306954,-122.6744557
+167,Adda247,Gurugram,other,Haryana,India,Asia,200.0,2026-05-10,20.0,1000.0,800.0,E-Learning Providers,Unknown,,2026,28.4646148,77.0299194
+168,Parker,New York,other,New York,USA,North America,,2026-05-09,100.0,,,Fintech,Unknown,,2026,40.7127281,-74.0060152
+169,xAI,Palo Alto,San Francisco Bay Area,California,USA,North America,10.0,2026-05-09,,,,"Technology, Information and Internet",Unknown,,2026,37.4443293,-122.1598465
+170,Bill,San Jose,San Francisco Bay Area,California,USA,North America,,2026-05-08,30.0,,,Financial Automation Software,Unknown,,2026,37.3361663,-121.890591
+171,Cloudflare,San Francisco,San Francisco Bay Area,California,USA,North America,1100.0,2026-05-08,20.0,5500.0,4400.0,Computer and Network Security,Unknown,,2026,37.7879363,-122.4075201
+172,Truecaller,Stockholm,other,non,Sweden,Europe,70.0,2026-05-08,,,,Software Development,Unknown,,2026,59.3251172,18.0710935
+173,Upwork,San Francisco,San Francisco Bay Area,California,USA,North America,,2026-05-07,24.0,,,Software Development,Unknown,,2026,37.7879363,-122.4075201
+174,DeepL,Cologne,other,non,Germany,Europe,250.0,2026-05-07,25.0,1000.0,750.0,Software Development,Unknown,,2026,50.938361,6.959974
+175,Ticketmaster,Beverly Hills,other,non,USA,North America,350.0,2026-05-07,8.0,4375.0,4025.0,Entertainment Providers,Unknown,,2026,34.0696501,-118.3963062
+176,Pocket FM,Bengaluru,other,Karnataka,India,Asia,120.0,2026-05-06,10.0,1200.0,1080.0,Entertainment Providers,Unknown,,2026,12.9767936,77.590082
+177,Freshworks,San Mateo,San Francisco Bay Area,non,USA,North America,500.0,2026-05-06,11.0,4545.0,4045.0,Software Development,Unknown,,2026,37.496904,-122.3330573
+178,Arctic Wolf,Eden Prairie,other,non,USA,North America,250.0,2026-05-06,10.0,2500.0,2250.0,Computer and Network Security,Unknown,,2026,44.8546856,-93.470786
+179,LSports,Tel Aviv-Yafo,other,non,Israel,Asia,40.0,2026-05-06,20.0,200.0,160.0,Real Time Sports Data,Unknown,,2026,32.0852997,34.7818064
+180,Shopify,Ottawa,other,non,Canada,North America,30.0,2026-05-04,,,,E-commerce,Unknown,,2026,45.4208777,-75.6901106

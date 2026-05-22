@@ -7,7 +7,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 
 # Load the data
-file_path = '/layoffs_Continent_sum_year.csv'
+file_path = 'tech_layoffs_csv/layoffs_Continent_sum_year.csv'
 data = pd.read_csv(file_path)
 
 # Initialize the Dash app
@@ -40,10 +40,11 @@ def update_yearly_chart(clickData):
     continent = clickData['points'][0]['x']
     filtered_data = data[data['Continent'] == continent]
     yearly_data = filtered_data.melt(id_vars=['Continent', 'Total_Laid_off'], 
-                                     value_vars=['2020', '2021', '2022', '2023', '2024'], 
+                                     value_vars=['2020', '2021', '2022', '2023', '2024', '2025', '2026'], 
                                      var_name='Year', value_name='Laid_off')
     fig = px.bar(yearly_data, x='Year', y='Laid_off', title=f'Layoffs in {continent} by Year')
     return fig
+
 
 # Run the app
 if __name__ == '__main__':

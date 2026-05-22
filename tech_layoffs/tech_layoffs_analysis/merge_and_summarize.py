@@ -11,6 +11,7 @@ MERGED_FILE = "tech_layoffs_csv/tech_layoffs_til_2026.csv"
 COUNTRY_SUM_FILE = "tech_layoffs_csv/layoffs_country_sum.csv"
 CONTINENT_SUM_FILE = "tech_layoffs_csv/layoffs_continent_sum.csv"
 COUNTRY_YEAR_SUM_FILE = "tech_layoffs_csv/layoffs_Country_sum_year.csv"
+CONTINENT_YEAR_SUM_FILE = "tech_layoffs_csv/layoffs_Continent_sum_year.csv"
 
 def main():
     print("Loading datasets...")
@@ -69,8 +70,22 @@ def main():
     country_year_pivot = country_year_pivot.reset_index()
     country_year_pivot.to_csv(COUNTRY_YEAR_SUM_FILE, index=False)
     print(f"Updated {COUNTRY_YEAR_SUM_FILE}")
+
+    # Continent + Year Summary
+    continent_year_pivot = df_with_layoffs.pivot_table(
+        index='Continent', 
+        columns='Year', 
+        values='Laid_Off', 
+        aggfunc='sum', 
+        fill_value=0
+    )
+    continent_year_pivot['Total_Laid_off'] = continent_year_pivot.sum(axis=1)
+    continent_year_pivot = continent_year_pivot.reset_index()
+    continent_year_pivot.to_csv(CONTINENT_YEAR_SUM_FILE, index=False)
+    print(f"Updated {CONTINENT_YEAR_SUM_FILE}")
     
     print("Integration complete!")
+
 
 if __name__ == "__main__":
     main()

@@ -13,8 +13,9 @@ Continent
 
 Laditude
 =VLOOKUP([@[Location_HQ]];tech_layoffs_location!A:F;6;FALSE)
+=VLOOKUP(TechLayoffsTrackerC);tech_layoffs!A:F;6;FALSE)
 
-Longitude
+Longitud
 =VLOOKUP([@[Location_HQ]];tech_layoffs_location!A:G;7;FALSE)
 
 =DATE(

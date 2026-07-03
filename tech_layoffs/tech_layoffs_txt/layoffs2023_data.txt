@@ -14,7 +14,9 @@ Web scraping on September 28th 2024 for III. Q 2024 from https://layoffs.fyi/
 
 Web scraping on 2026-01-01 for 2025 on https://peerlist.io/layoffs-tracker
 
-Web scraping on 2026-05-22 on https://peerlist.io/layoffs-tracker
+Web scraping on 2026-05-22 on https://peerlist.io/layoffs-tracker for Q2 2026 from Peerlist
+
+Web scraping on 2026-07-03 on https://layoffs.fyi/ for Q2 2026 from Layoffs.fyi
 
 Cleaning II.Q 2024
 
